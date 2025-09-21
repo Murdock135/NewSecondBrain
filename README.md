@@ -4,6 +4,7 @@ Inspired by [LDP](https://youtu.be/XTwDhiDGk50?si=-96yj4ElEUdxGF_n), this is an 
 The vault has the following top level folders:
 - `Lists/`: For keeping misc lists such as Topics to explore (`Explore.md`), Misc reading list (`Reading.md`), etc.
 - `Work/`: For housing my *projects* and *disciplines*.
+
 Each **Discipline** and **Project** contains the following components. These components (except for the `README.md`) are kept inside a `/(Discipline | Project)/Dive` folder.
 - `Milestones`
 - `Reading`
