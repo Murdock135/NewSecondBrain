@@ -1,1 +1,1 @@
-
+- [ ] #task Learn how to use templates
