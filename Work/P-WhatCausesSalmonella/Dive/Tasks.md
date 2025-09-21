@@ -1,0 +1,85 @@
+- [x] #task email Dr. Anand #planned
+- [ ] #task fix the df summary extraction code for *census_population* data.
+- [x] #task Create function to save final answer #planned 
+- [ ] #task Create a formatter node that will format the final answer nicely. 
+- [ ] #task write an example .env file
+- [ ] #task Read literature mitesh sent out
+- [ ] #task create likert scale
+- [ ] #task Create run scripts for mitesh and Dr. Kangogo
+- [ ] #task listen to recording of meeting with Dr. A.
+- [ ] #task Create the weather calling tool
+- [ ] #task Calculate/estimate compute needed 
+	- [x] LLM calls API ✅ 2025-07-29
+	- [ ] Logging API (langsmith)
+- [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
+- [ ] #task Create a doc with issues/requests/ramblings #planned
+- [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
+- [ ] #task Integrate tools
+	- [ ] #task e2b
+	- [x] #task filesystem ✅ 2025-06-13
+	- [ ] #task Human as a tool
+	- [ ] #task oracleai vector search https://python.langchain.com/docs/integrations/tools/oracleai/
+	- [ ] #task pubmed
+	- [x] #task python REPL ✅ 2025-06-13
+	- [ ] #task semantic scholar
+	- [ ] #task wikipedia
+- [ ] #task create docker image #ongoing
+	- [x] #task create `.dockerignore` #ongoing ✅ 2025-09-16
+	- [ ] #task create named volume for outputs
+	- [ ] #task create named volume for secrets1
+- [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
+- [ ] #task create a script to extract raw poultry sampling data
+- [ ] #task Write READMEs for the datasets on huggingface. #discuss
+- [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
+- [ ] #task create list of important variables (written in notepad)
+
+# Archived
+
+- [x] #task use an if name == main #planned ✅ 2025-03-19 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task put data used for research (proof of concept inside a separate dir) #planned ✅ 2025-03-20 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Put the data documentations in a folder from which the llm can extract information. #ongoing ✅ 2025-03-20 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Fix the paths pointing to the data so that they are generic enough to be reproducible #planned(5m) ✅ 2025-03-21 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task incorporate ollama with langchain ✅ 2025-03-21 🔒 [[2025-06-20]] 🕸️ tasks
+	- [x] #task read langchain-ollama (30m) #ongoing ✅ 2025-03-21
+- [x] #task Read Python's 'Input and Output' tutorial #ongoing ✅ 2025-03-21 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Parse the output from the llm #ongoing ✅ 2025-03-22 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Use ChatPromptTemplate to format the message so that it is explicit as to what is the human message #planned ✅ 2025-03-29 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Extract the json plan #ongoing ✅ 2025-04-07 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task get structured output ✅ 2025-04-24 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Make powerpoint ✅ 2025-05-05 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Create a function in config.py that will create output directories stamped by time #ongoing ✅ 2025-05-05 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task move utility functions to utils.py #planned ✅ 2025-05-06 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task create a explorer ✅ 2025-05-08 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task add {df_heads} to the planner's system message #planned ✅ 2025-05-08 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task make the `pipeline` func with planner, executor #ongoing ✅ 2025-05-14 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Create schematic of langchain system. ✅ 2025-05-14 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Read about FAISS ✅ 2025-05-14 🔒 [[2025-06-20]] 🕸️ tasks
+	- [x] #task Read the Github wiki ✅ 2025-05-14
+	- [x] #task Read the Github README.md ✅ 2025-03-17
+- [x] #task create a router node that determines if the planner needs to be invoked or if it can answer the user's query itself. #ongoing ✅ 2025-05-25 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Add a loop (max 5 times) to force proper output schema ✅ 2025-06-02 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task create a script to download data ✅ 2025-06-04 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task create tools to access blob and list the files #ongoing ✅ 2025-06-04 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Change the system prompts to include text from manifest.json instead of tree #planned ✅ 2025-06-06 🔒 [[2025-06-20]] 🕸️ tasks
+	- [x] #task dispose of get_tree_bash (put into archive) and create another function to read in `manifest.json` #planned ✅ 2025-06-06
+- [x] #task migrate to langgraph #ongoing ✅ 2025-06-10 🔒 [[2025-06-20]] 🕸️ tasks
+	- [x] #task planner ✅ 2025-05-25
+	- [x] #task executor ✅ 2025-06-09
+- [x] #task make the aggregator ✅ 2025-06-13 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task refine project structure #ongoing ✅ 2025-06-13 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task instead of invoking a new API call, add to the list of messages/ use memory. #planned ✅ 2025-06-13 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task Get gemini API and use it #ongoing ✅ 2025-06-18 🔒 [[2025-06-20]] 🕸️ tasks
+- [x] #task put test queries into config.toml #planned ✅ 2025-06-24 🔒 [[2025-06-24]] 🕸️ tasks
+- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Create json for QA dataset #ongoing 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Create video on baseline system 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task Create a function to run the agentic system on a list of questions #planned 🔒 [[2025-06-27]] 🕸️ tasks
+- [x] #task path to manifest should be set in Config #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Write a routine to check whether the data mentioned in the manifest actually exists #planned ✅ 2025-06-24 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Finish report #ongoing 🔒 [[2025-07-18]] 🕸️ tasks
+- [x] #task Create json for QA dataset #ongoing 🔒 [[2025-07-18]] 🕸️ tasks 
+- [x] #task Create a script to run every expert query #ongoing ✅ 2025-07-23 🔒 [[2025-08-08]] 🕸️ tasks
+- [x] #task Study Likert scale #ongoing 🔒 [[2025-08-08]] 🕸️ tasks
+- [x] #task Write a README for the project  🔒 [[2025-08-08]] 🕸️ tasks
+

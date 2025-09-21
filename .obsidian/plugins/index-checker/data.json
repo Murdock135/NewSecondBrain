@@ -1,5 +1,5 @@
 {
-  "indexFileFormat": "_INDEX",
+  "indexFileFormat": "_[FOLDER]",
   "useRootIndexFileFormat": false,
   "rootIndexFileFormat": "[VAULT]",
   "outputFileFormat": "_[FOLDER]",
@@ -7,7 +7,7 @@
   "startupCheck": true,
   "nestedMode": "",
   "allFiles": false,
-  "ignorePatterns": "_INDEX",
+  "ignorePatterns": "",
   "outputMode": "INDEX",
   "prependToIndex": false,
   "outputLinksFormat": "***\n[LINKS]",
@@ -26,6 +26,7 @@
     1758469507773,
     1758469579554,
     1758469672248,
-    1758469693140
+    1758469693140,
+    1758473771265
   ]
 }

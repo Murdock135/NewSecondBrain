@@ -69,5 +69,7 @@ The `Scratch` folder is an optional folder that serves as a scratchpad. To keep 
         │   └── Tasks.md
         └── README.md
 ```
+# `(Discipline | Project)/README.md` files
+
 # Quick Glossary
 - `Dive`: A folder for 'diving into' the main content. 
