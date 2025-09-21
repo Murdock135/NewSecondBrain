@@ -11,14 +11,10 @@
             "id": "a61407c8acb03ac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "New tab"
             }
           }
         ]
@@ -170,16 +166,24 @@
       "index-checker:Check indexes": false
     }
   },
-  "active": "a61407c8acb03ac8",
+  "active": "e42e8ec8443b5759",
   "lastOpenFiles": [
+    "Work/P-Sample/Dive/Milestones.md",
+    "Work/P-Sample/Dive/Reading.md",
+    "Work/P-Sample/Dive/References.md",
+    "Work/P-Sample/Dive/Roadmap.md",
+    "Work/P-Sample/Dive/Tasks.md",
+    "README.md",
+    "Work/P-Sample/Readme.md",
+    "Work/P-Sample/Dive",
+    "Work/P-Sample",
+    "Dashboard.md",
     "Work/P-WhatCausesSalmonella/Dive/Milestones.md",
     "Work/P-CombiningEvidenceLLMs",
     "Work/P-WhatCausesSalmonella/Dive/References.md",
     "Work/P-WhatCausesSalmonella/Dive/Scratch/_Rambling.md",
     "Work/P-WhatCausesSalmonella/Dive/Scratch/_Scratch.md",
-    "Dashboard.md",
     "Lists/TasksNext.md",
-    "README.md",
     "Work/D-AIAndComputing/Dive/Tasks.md",
     "Work/D-AIAndComputing/Dive/Roadmap.md",
     "Work/D-AIAndComputing/README.md",
@@ -193,20 +197,12 @@
     "AGENTS.md",
     "Work/D-AIAndComputing/Dive/Scratch/_Scratch.md",
     "Lists/Explore.md",
-    "Work/D-AIAndComputing/Dive/Milestones.md",
-    "Work/D-Health/Dive/Pillars.md",
-    "Work/D-Health/Dive/Tasks.md",
-    "Work/D-Health/Dive/Milestones.md",
-    "Work/D-AIAndComputing/Dive/Scratch/What is a Wind Mill.md",
-    "Work/D-AIAndComputing/Dive/Scratch/GPT 5 advice on wind mills.md",
     "Work/D-AIAndComputing/Dive/Scratch",
     "Work/P-Organization/Dive/Scratch",
     "Work/P-Organization/Dive",
     "Work/D-AIAndComputing/Dive",
     "Work/D-Health/Dive",
     "Inbox",
-    "Work/P-WhatCausesSalmonella/Dive/Scratch",
-    "Work/P-WhatCausesSalmonella/Dive",
-    "Work/P-project1/dive"
+    "Work/P-WhatCausesSalmonella/Dive/Scratch"
   ]
 }
