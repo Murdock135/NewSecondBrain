@@ -5,6 +5,5 @@
 [[Resolutions]]
 [[Explore]]
 [[Entertainment]]
-
 # Projects
 
