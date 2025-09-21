@@ -1,4 +1,5 @@
 {
   "userIgnoreFilters": null,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments"
 }
