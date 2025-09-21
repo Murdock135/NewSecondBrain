@@ -15,6 +15,9 @@ Each **Discipline** and **Project** contains the following components. These com
 - `README.md`: The MOC or dashboard for the project/discipline. The 
 - Disciplines have an optional `Pillars.md`. Pillars are tenets that guide the discipline.
 
+The `Scratch` folder is an optional folder that serves as a scratchpad. To keep provenance over what's in here, I keep an  `_INDEX.md` where I manually keep hardlinks to all the notes. Since this is a manual process, I use [Index Checker](https://forum.obsidian.md/t/plugin-index-checker-unopinionated-moc-index-maintainer-canvas-index-support/79032/1) to make sure I have indexed all items.
+
+
 ```
 ├── Dashboard.md
 ├── Inbox
