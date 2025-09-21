@@ -1,1 +1,2 @@
-- [ ] #task Learn how to use templates
+- [ ] #task incorporate aerospace tiling in mac
+- [ ] #task get a notebook that shows the calendar right beside the notes section

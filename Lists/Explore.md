@@ -1,0 +1,27 @@
+- [ ] hyprland
+- [ ] mise
+- [ ] arch
+- [ ] GNU stow
+- [ ] tmux
+- [ ] nix
+- [ ] x86_64 instruction set, cpu - programmers manual
+- [ ] yay
+- [ ] fish shell
+- [ ] making system prompts and MCP in vs code
+- [ ] sed
+- [ ] awk
+- [ ] configuring dev tools
+	- [ ] alacritty
+	- [ ] starship
+	- [ ] terminal prompt
+	- [ ] wayland
+- [ ] speech dispatcher
+- [ ] ports
+- [ ] server side programming
+- [ ] vs code tools for working with docker
+- [ ] CDI devices
+- [x] All things Docker ✅ 2025-09-10
+- [x] uv ✅ 2025-09-10
+- [ ] python packaging guide (wheels)
+- [ ] claude code vs codex cli
+- [ ] collaborating using docker

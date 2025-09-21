@@ -17,3 +17,8 @@ FROM "Work"
 WHERE file.name = "README"
 SORT kind ASC, type ASC, name ASC
 ```
+
+# All tasks
+```tasks
+not done
+```

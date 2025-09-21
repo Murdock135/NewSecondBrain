@@ -1,6 +1,10 @@
 - Movies
-	- Burning 
-	- Better days #japanese
+	- [ ] Burning 
+	- [ ] Better days #japanese
 - TV Shows
-	- Walking dead
-	- 
+	- [x] Walking dead
+	- [x] Squid Game #korean
+	- [ ] Midnight manager
+	- [ ] Hellbound #korean 
+- Anime
+- 
