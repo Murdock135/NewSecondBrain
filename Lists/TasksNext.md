@@ -1,2 +1,1 @@
-- [ ] #task Sign and Submit Offer letter to the Uni
-- [ ] #task Follow up with Dr. Anderson for D1 form
+- [ ] #task Sign and send offer letter to manleyj@missouri.edu
