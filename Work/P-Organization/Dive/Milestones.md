@@ -2,6 +2,7 @@
 - [ ] #milestone set up declarative OS with nix
 - [ ] #milestone read some arch wiki
 - [ ] #milestone create a light mode omarchy theme
+- [ ] #milestone Go through all emails and **delete**, **unsubscribe** emails
 
 # Archived
 

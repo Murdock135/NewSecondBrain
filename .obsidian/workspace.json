@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists/TasksNext.md",
-                "mode": "source",
+                "file": "Work/P-WhatCausesSalmonella/Dive/Scratch/_Scratch.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TasksNext"
+              "title": "_Scratch"
             }
           }
         ]
@@ -170,9 +170,15 @@
       "index-checker:Check indexes": false
     }
   },
-  "active": "f11bd1594a133975",
+  "active": "e42e8ec8443b5759",
   "lastOpenFiles": [
+    "Work/P-WhatCausesSalmonella/Dive/Scratch/_Scratch.md",
+    "Work/P-Organization/README.md",
+    "Work/P-Organization/Dive/Tasks.md",
+    "Work/P-WhatCausesSalmonella/Dive/References.md",
+    "Work/P-WhatCausesSalmonella/Dive/Reading.md",
     "Dashboard.md",
+    "Work/P-Organization/Dive/Milestones.md",
     "Lists/TasksNext.md",
     "Work/D-AIAndComputing/Dive/Tasks.md",
     "Work/D-AIAndComputing/README.md",
@@ -185,8 +191,6 @@
     "Work/D-HolisticDev/Dive/Tasks.md",
     "Work/D-HolisticDev/README.md",
     "Work/D-AIAndComputing/Dive/Reading.md",
-    "Work/P-WhatCausesSalmonella/Dive/Reading.md",
-    "Work/P-WhatCausesSalmonella/Dive/References.md",
     "Work/P-WhatCausesSalmonella/README.md",
     "README.md",
     "Lists/Entertainment.md",
@@ -194,10 +198,6 @@
     "Work/P-WhatCausesSalmonella/Dive/Tasks.md",
     "Work/P-CombiningEvidenceInLLMs/Dive/Tasks.md",
     "Work/P-CombiningEvidenceInLLMs/Readme.md",
-    "Work/P-Organization/Dive/Tasks.md",
-    "Work/P-CombiningEvidenceInLLMs/Dive/Roadmap.md",
-    "Work/P-CombiningEvidenceInLLMs/Dive/References.md",
-    "Work/P-CombiningEvidenceInLLMs/Dive/Reading.md",
     "Work/P-CombiningEvidenceInLLMs/Dive",
     "Work/P-CombiningEvidenceInLLMs",
     "Work/P-Sample/Dive",
