@@ -1,1 +1,0 @@
-- [ ] #task Sign and send offer letter to manleyj@missouri.edu
