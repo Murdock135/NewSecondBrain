@@ -3,3 +3,11 @@
 - [ ] #milestone Learn Wing Chun
 - [ ] #milestone Learn BJJ (Brazilian JiuJitsu)
 - [ ] #milestone Read the entire stanford encyclopedia of philosophy (ETF: 7 years)
+- [ ] Learn Languages
+	- [ ] #milestone learn Mandarin
+	- [ ] #milestone learn Malay
+	- [ ] #milestone learn Japanese
+	- [ ] #milestone learn Korean
+	- [ ] #milestone learn Italian
+	- [ ] #milestone learn French
+	- [ ] #milestone learn German
