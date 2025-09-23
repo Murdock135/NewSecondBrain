@@ -1,6 +1,7 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task 
 - [ ] #task Create a formatter node that will format the final answer nicely. 
-- [ ] #task write an example .env file
+- [x] #task write an example .env file ✅ 2025-09-23
 - [ ] #task Read literature mitesh sent out
 - [ ] #task create likert scale
 - [ ] #task Create run scripts for mitesh and Dr. Kangogo

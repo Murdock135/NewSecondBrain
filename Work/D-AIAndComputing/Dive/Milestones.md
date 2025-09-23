@@ -1,6 +1,6 @@
 
 - [ ] #milestone Do a project with Lambda
-- [ ] #milestone Read bash reference manual #ongoing
+- [ ] #milestone Read **bash** reference manual #ongoing
 - [ ] #milestone Configure neovim
 - [ ] #milestone Do Huggingface's course #ongoing
 - [ ] #milestone Read Using Github https://docs.github.com/en/get-started/using-github

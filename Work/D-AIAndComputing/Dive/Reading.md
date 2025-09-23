@@ -14,13 +14,18 @@
 - [ ] https://www.anthropic.com/research/reasoning-models-dont-say-think #read
 - [ ] https://www.anthropic.com/research/tracing-thoughts-language-model #read
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing #read
-- [ ] https://docs.astral.sh/uv/guides/integration/docker/
+- [x] https://docs.astral.sh/uv/guides/integration/docker/ #read 
+- [ ] [How to contribute to open source](https://www.youtube.com/watch?v=CML6vfKjQss) #read
 # Python
 - [ ] #read https://peps.python.org/pep-3147/#flow-chart
 - [ ] #read https://packaging.python.org/en/latest/overview/
+- [ ] #read [Video on Python Internals](https://youtu.be/f8nTJp_k7U8?si=FCZ0cnSs1TVq8mw_)
 # Docker
 
 - [ ] #read Everything in https://docs.docker.com/manuals/
+	- [ ] #read [docker bake](https://docs.docker.com/build/bake/)
+	- [ ] #read [Multi-Stage Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/#use-multi-stage-builds)
+- [ ] #read [Agentic AI with docker](https://docs.docker.com/guides/agentic-ai/)
 # UV
 - [ ] #read everything in docs
 # Artificial Intelligence topics

@@ -1,6 +1,6 @@
 # Your Next Tasks
 ```tasks
-path includes Lists/TasksNext.md
+path includes Lists/TasksNext.md and !completed
 ```
 
 # Ongoing Projects
