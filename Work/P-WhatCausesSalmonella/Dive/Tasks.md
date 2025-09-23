@@ -1,5 +1,8 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
-- [ ] #task 
+- [ ] #task Restructure project
+	- [ ] #task Learn Docker bake
+	- [ ] #task Write bake file
+	- [ ] #task Split dockerfile into 2
 - [ ] #task Create a formatter node that will format the final answer nicely. 
 - [x] #task write an example .env file ✅ 2025-09-23
 - [ ] #task Read literature mitesh sent out

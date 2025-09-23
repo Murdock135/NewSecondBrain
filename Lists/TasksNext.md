@@ -1,5 +1,9 @@
 - [ ] #task Apply for new I-20 form
+- [ ] #task Restructure project
+	- [ ] #task Learn Docker bake
+	- [ ] #task Write bake file
+	- [ ] #task Split dockerfile into 2
 - [x] #task Write the dockerfile ✅ 2025-09-23
 - [x] #task Improve the readme ✅ 2025-09-23
-- [ ] #task Fix the executor node
+- [x] #task Fix the executor node ✅ 2025-09-23
 	- **Issue**: The structured output generator doesn't produce anything.
