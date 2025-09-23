@@ -14,7 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
+<<<<<<< HEAD
                 "mode": "source",
+=======
+                "mode": "preview",
+>>>>>>> f143096 (.)
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,6 +177,7 @@
   },
   "active": "f11bd1594a133975",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Lists/TasksNext.md",
     "Dashboard.md",
     "Work/P-Organization/Dive/Milestones.md",
@@ -181,17 +186,27 @@
     "Work/P-WhatCausesSalmonella/Dive/Reading.md",
     "Work/D-AIAndComputing/README.md",
     "Work/D-AIAndComputing/Dive/Roadmap.md",
+=======
+>>>>>>> f143096 (.)
     "Work/D-HolisticDev/Dive/Milestones.md",
+    "Dashboard.md",
     "Work/P-CombiningEvidenceInLLMs/README.md",
     "Work/P-CombiningEvidenceInLLMs/Dive/Roadmap.md",
     "Work/P-CombiningEvidenceInLLMs/Dive/Tasks.md",
     "Work/P-CombiningEvidenceInLLMs/Dive/Scratch/_Scratch.md",
     "Work/P-CombiningEvidenceInLLMs/Dive/Scratch",
+    "Work/P-Organization/README.md",
     "Work/D-HolisticDev/README.md",
+    "Work/D-AIAndComputing/README.md",
     "Work/P-WhatCausesSalmonella/Dive/Scratch/_Scratch.md",
     "Work/P-WhatCausesSalmonella/Dive/Scratch/ChatGPT discussion on.md",
+    "Work/P-Organization/Dive/Tasks.md",
     "Work/P-WhatCausesSalmonella/Dive/References.md",
+    "Work/P-WhatCausesSalmonella/Dive/Reading.md",
+    "Work/P-Organization/Dive/Milestones.md",
+    "Lists/TasksNext.md",
     "Work/D-AIAndComputing/Dive/Tasks.md",
+    "Work/D-AIAndComputing/Dive/Roadmap.md",
     "Work/D-AIAndComputing/Dive/Pillars.md",
     "Work/D-AIAndComputing/Dive/Milestones.md",
     "Work/D-HolisticDev/Dive/Pillars.md",
