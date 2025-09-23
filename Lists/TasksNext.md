@@ -1,2 +1,5 @@
 - [ ] #task Apply for new I-20 form
-- [ ] #task Write the dockerfile
+- [x] #task Write the dockerfile ✅ 2025-09-23
+- [x] #task Improve the readme ✅ 2025-09-23
+- [ ] #task Fix the executor node
+	- **Issue**: The structured output generator doesn't produce anything.
