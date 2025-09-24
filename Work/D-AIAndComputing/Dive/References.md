@@ -29,6 +29,8 @@
 - [ ] #course [build your own package manager (typescript)](https://github.com/g-plane/tiny-package-manager)
 - [ ] #wiki [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
 - [ ] #docs https://dev.java/learn/
+- [ ] #course [software testing course by IBM (paid)](https://www.coursera.org/learn/software-testing-deployment-and-maintenance-strategies)
+- [ ] #course [website for courses on software development and maintenance](https://testautomationu.applitools.com/learningpaths.html)
 # Math
 ## Statistics
 - [ ] #book Statistical Inference (Casella)

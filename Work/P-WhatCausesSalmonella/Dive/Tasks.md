@@ -1,4 +1,5 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task Send the system names to team #planned 
 - [ ] #task Restructure project
 	- [ ] #task Learn Docker bake
 	- [ ] #task Write bake file
@@ -15,7 +16,6 @@
 	- [ ] Logging API (langsmith)
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
 - [ ] #task Create a doc with issues/requests/ramblings #planned
-- [ ] #task set up project releases #planned based on [about releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
 - [ ] #task Integrate tools
 	- [ ] #task e2b
 	- [x] #task filesystem ✅ 2025-06-13

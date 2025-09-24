@@ -1,9 +1,8 @@
 - [ ] #task Apply for new I-20 form
+- [ ] #task Read about Semantic versioning
+- [ ] #task Send out Docker image
 - [ ] #task Restructure project
+	- [ ] #task Learn about python packaging (7 hours)
 	- [x] #task Learn Docker bake ✅ 2025-09-23
-	- [ ] #task Write bake file
-	- [ ] #task Split dockerfile into 2
-- [x] #task Write the dockerfile ✅ 2025-09-23
-- [x] #task Improve the readme ✅ 2025-09-23
-- [x] #task Fix the executor node ✅ 2025-09-23
-	- **Issue**: The structured output generator doesn't produce anything.
+	- [ ] #task Write bake file 
+	- [ ] #task Split dockerfile into 2 (3 days)
