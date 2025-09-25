@@ -1,5 +1,35 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [x] #task docker build script should abruptly exit if .env and/or .secrets/.llm_apis isn't found ✅ 2025-09-25
+- [ ] #task There is an issue with how we're handling `.venv/`. After the docker build creates a `.venv/` for the user, we are currently mounting the whole `PWD`  with `-v` and after the container is stopped (and even removed) the `.venv/` stays and the result is the following:
+```bash
+research-agentic_salmonella_langgraph main ❯ lsa
+Permissions Size User  Date Modified Name
+drwxr-xr-x     - zayan 25 Sep 15:02   .git
+drwxr-xr-x     - root  25 Sep 15:11   .venv
+drwxr-xr-x     - zayan  7 Sep 18:46   config
+drwxr-xr-x     - zayan  7 Sep 18:48   core
+drwxr-xr-x     - zayan  7 Sep 18:48   data
+drwxr-xr-x     - zayan 19 Sep 22:29   docs
+drwxr-xr-x     - zayan  7 Sep 16:08   experiments
+drwxr-xr-x     - zayan  7 Sep 18:48   nodes
+drwxr-xr-x     - zayan  7 Sep 16:08   notebooks
+drwxr-xr-x     - zayan 25 Sep 15:12   output
+drwxr-xr-x     - zayan 23 Sep 13:18   schemas
+drwxr-xr-x     - zayan 25 Sep 15:02   scripts
+drwxr-xr-x     - zayan  7 Sep 16:08   sys_messages
+drwxr-xr-x     - zayan  7 Sep 18:48   tools
+drwxr-xr-x     - zayan  7 Sep 18:46   utils
+.rw-r--r--    60 zayan  8 Sep 12:47   .dockerignore
+.rw-r--r--    47 zayan  7 Sep 18:45   .env
+.rw-r--r--   417 zayan  7 Sep 16:08  󰊢 .gitignore
+.rw-r--r--     7 zayan  7 Sep 16:08   .python-version
+.rw-r--r--  2.4k zayan 18 Sep 21:45   AGENTS.md
+.rw-r--r--  2.2k zayan 19 Sep 22:29   Dockerfile
+.rw-r--r--   825 zayan  7 Sep 16:08   pyproject.toml
+.rw-r--r--  5.5k zayan 23 Sep 11:37   readme.md
+.rw-r--r--  244k zayan  7 Sep 16:08   uv.lock
+```
+Notice that `.venv/` is owned by `root`
 - [ ] #task Docker build script should ask whether the user has already downloaded the data. If not, it should create a docker volume, change the HF_HOME, download the data and then start the project
 - [ ] #task Send the system names to team #planned 
 - [ ] #task Restructure project
