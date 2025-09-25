@@ -1,4 +1,5 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task docker build script should abruptly exit if .env and/or .secrets/.llm_apis isn't found
 - [ ] #task Send the system names to team #planned 
 - [ ] #task Restructure project
 	- [ ] #task Learn Docker bake
