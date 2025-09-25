@@ -1,5 +1,6 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
-- [ ] #task docker build script should abruptly exit if .env and/or .secrets/.llm_apis isn't found
+- [x] #task docker build script should abruptly exit if .env and/or .secrets/.llm_apis isn't found ✅ 2025-09-25
+- [ ] #task Docker build script should ask whether the user has already downloaded the data. If not, it should create a docker volume, change the HF_HOME, download the data and then start the project
 - [ ] #task Send the system names to team #planned 
 - [ ] #task Restructure project
 	- [ ] #task Learn Docker bake
