@@ -8,6 +8,7 @@ not done
 - Academic
 	- Research on LLMs: (1) Epistemology on LLMs (2) Combining Evidence
 	- Course- [Nand2Tetris](https://www.coursera.org/learn/build-a-computer/home/module/1)
+		- Next Lesson- Unit 1.4: Hardware Description Language
 	- Course- Principles of Programming Languages
 - Sports
 	- Tennis
