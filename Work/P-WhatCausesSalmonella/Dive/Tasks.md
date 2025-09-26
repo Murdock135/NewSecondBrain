@@ -1,3 +1,4 @@
+- [x] #task Write the quarterly report ✅ 2025-09-26
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [ ] #task Learn how to pull in code from other remote branches
 - [x] #task docker build script should abruptly exit if .env and/or .secrets/.llm_apis isn't found ✅ 2025-09-25
