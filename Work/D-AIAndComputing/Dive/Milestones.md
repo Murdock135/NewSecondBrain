@@ -1,8 +1,8 @@
 
 - [ ] #milestone Do a project with Lambda
-- [ ] #milestone Read **bash** reference manual #ongoing
+- [ ] #milestone Read **bash** reference manual 
 - [ ] #milestone Configure neovim
-- [ ] #milestone Do Huggingface's course #ongoing
+- [ ] #milestone Do Huggingface's course 
 - [ ] #milestone Read Using Github https://docs.github.com/en/get-started/using-github
 - [ ] #milestone Finish reading python docs #ongoing 
 - [ ] #milestone Create a reference sheet for fuzzy set and fuzzy inference.
@@ -10,13 +10,14 @@
 - [ ] #milestone Create a reference sheet for CNNs.
 - [ ] #milestone Read the big paper From RAG to Multi-Agent Systems: A Survey of Modern Approaches in LLM Development
 - [ ] #milestone set up your own NixOS configuration
-- [ ] #milestone learn Distrobox #ongoing 
+- [ ] #milestone learn Distrobox  
 - [ ] #milestone Read 'Modern Operating systems' By Andrew Tanenbaum
 - [ ] #milestone Read the big paper: The Rise and Potential of Large Language Model Based Agents: A Survey
 - [ ] #milestone Combination of evidence in Dempster shafer theory
-- [ ] #milestone Read and understand the Neovim codebase
+- [ ] #milestone Make a contribution to Neovim
 - [ ] #milestone do Andrej Karpathy's LLMs from scratch course
 - [ ] #milestone read python setup and usage https://docs.python.org/3/using/index.html
+- [ ] #milestone Learn github PR's and actions from [Github foundations course](https://www.youtube.com/watch?v=Jdc0i7RcBv8)
 
 # Archived
 

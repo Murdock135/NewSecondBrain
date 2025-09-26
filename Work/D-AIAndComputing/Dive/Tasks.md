@@ -3,4 +3,4 @@
 - [ ] #task Peruse awesome list and import things
 - [x] #task upload c book by biju to google drive ✅ 2025-09-21
 - [ ] #task Peruse your google drive library
-- [ ] #task Create a dev env for java
+- [ ] #task Learn how to use github for project management

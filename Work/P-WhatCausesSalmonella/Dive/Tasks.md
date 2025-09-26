@@ -1,4 +1,5 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task Learn how to pull in code from other remote branches
 - [x] #task docker build script should abruptly exit if .env and/or .secrets/.llm_apis isn't found ✅ 2025-09-25
 - [ ] #task There is an issue with how we're handling `.venv/`. After the docker build creates a `.venv/` for the user, we are currently mounting the whole `PWD`  with `-v` and after the container is stopped (and even removed) the `.venv/` stays and the result is the following:
 ```bash
