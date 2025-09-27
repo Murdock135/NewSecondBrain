@@ -31,6 +31,7 @@
 - [ ] #docs https://dev.java/learn/
 - [ ] #course [software testing course by IBM (paid)](https://www.coursera.org/learn/software-testing-deployment-and-maintenance-strategies)
 - [ ] #course [website for courses on software development and maintenance](https://testautomationu.applitools.com/learningpaths.html)
+- [ ] [Write yourself a git](https://wyag.thb.lt/)
 # Math
 ## Statistics
 - [ ] #book Statistical Inference (Casella)
