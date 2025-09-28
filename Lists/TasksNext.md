@@ -1,6 +1,5 @@
 - [ ] #task Apply for new I-20 form
 - [ ] #task Read about Semantic versioning
-- [ ] #task Rewrite the dockerfile and build scripts
 - [ ] #task Restructure project
 	- [ ] #task Learn about python packaging (7 hours)
 	- [x] #task Learn Docker bake ✅ 2025-09-23
