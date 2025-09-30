@@ -1,1 +1,2 @@
+- [ ] #task Read DST theory until **Yager's modified**
 - [ ] #task Do 2 example problems 
