@@ -33,6 +33,7 @@
 - [ ] #course [website for courses on software development and maintenance](https://testautomationu.applitools.com/learningpaths.html)
 - [ ] [Write yourself a git](https://wyag.thb.lt/)
 - [ ] #course [Computer Graphics](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+- [ ] #course [Compilers](https://youtu.be/5ZmFlxrNaN8?si=y0gYvnXZB-_pPqdL)
 
 # Math
 ## Statistics
