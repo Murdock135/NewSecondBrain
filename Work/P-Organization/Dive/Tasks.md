@@ -1,2 +1,3 @@
 - [ ] #task incorporate aerospace tiling in mac
 - [ ] #task get a notebook that shows the calendar right beside the notes section
+- [ ] #task Start papis

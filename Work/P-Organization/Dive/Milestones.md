@@ -4,6 +4,7 @@
 - [ ] #milestone create a light mode omarchy theme
 - [ ] #milestone Go through all emails and **delete**, **unsubscribe** emails
 - [ ] #milestone Build a finance excel sheet to track finances
+- [ ] #milestone move digital library to papis or cobib
 
 # Archived
 

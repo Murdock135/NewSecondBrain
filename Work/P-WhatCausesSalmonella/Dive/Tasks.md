@@ -1,9 +1,5 @@
 - [ ] #task fix the df summary extraction code for *census_population* data.
-- [x] #task Rewrite README ✅ 2025-09-29
 - [ ] #task Learn how to pull in code from other remote branches
-- [x] #task There is an issue with how we're handling `.venv/`. After the docker build creates a `.venv/` for the user, we are currently mounting the whole `PWD`  with `-v` and after the container is stopped (and even removed) the `.venv/` stays and the result is the following: ✅ 2025-09-28
-- [x] #task Docker build script should ask whether the user has already downloaded the data. If not, it should create a docker volume, change the HF_HOME, download the data and then start the project ✅ 2025-09-28
-- [x] #task Send the system names to team #planned ✅ 2025-09-28
 - [ ] #task Restructure project
 - [ ] #task Create a formatter node that will format the final answer nicely. 
 - [ ] #task Read literature mitesh sent out
@@ -90,3 +86,7 @@
 	- [x] #task create `.dockerignore` #ongoing ✅ 2025-09-16
 	- [x] #task create named volume for outputs ✅ 2025-09-26
 	- [x] #task create named volume for secrets1 ✅ 2025-09-26
+- [x] #task There is an issue with how we're handling `.venv/`. After the docker build creates a `.venv/` for the user, we are currently mounting the whole `PWD`  with `-v` and after the container is stopped (and even removed) the `.venv/` stays and the result is the following: ✅ 2025-09-28 🔒 [[2025-10-03]] 🕸️ Tasks
+- [x] #task Docker build script should ask whether the user has already downloaded the data. If not, it should create a docker volume, change the HF_HOME, download the data and then start the project ✅ 2025-09-28 🔒 [[2025-10-03]] 🕸️ Tasks
+- [x] #task Send the system names to team #planned ✅ 2025-09-28 🔒 [[2025-10-03]] 🕸️ Tasks
+- [x] #task Rewrite README ✅ 2025-09-29 🔒 [[2025-10-03]] 🕸️ Tasks
