@@ -1,6 +1,2 @@
 
-- [ ] #task Read DST theory until **Yager's modified**
-- [ ] #task Read DST until **Zhang's center combination rule**
-- [ ] #task Read DST until end of chapter 2
-- [ ] #task Read until end of chapter 3
-- [ ] #task Do 2 example problems 
+- [ ] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm

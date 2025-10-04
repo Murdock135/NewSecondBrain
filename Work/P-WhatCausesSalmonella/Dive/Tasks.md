@@ -1,3 +1,4 @@
+- [ ] #task Write abstract
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [ ] #task Learn how to pull in code from other remote branches
 - [ ] #task Restructure project

@@ -1,2 +1,5 @@
 - [ ] #task Apply for new I-20 form
-- [ ] #task Read DST theory until **Yager's modified**
+- [ ] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm
+- [ ] #task Write abstract
+- [ ] #task Read literature mitesh sent out
+- [ ] #task create likert scale

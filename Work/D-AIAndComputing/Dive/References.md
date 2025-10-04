@@ -14,6 +14,7 @@
 - [ ] #book Beyond the twelve factor app
 - [ ] #blog Python3 module of the week https://pymotw.com/3/
 - [ ] #docs https://docs.python.org/3/reference/
+- [ ] #course [Series of Courses on C using linux](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
 # Computer Science
 - [ ] #book Computer Systems: A Programmer's Perspective
 - [ ] #book Modern Operating Systems by Tanenbaum
