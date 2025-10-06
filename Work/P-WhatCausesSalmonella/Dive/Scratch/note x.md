@@ -1,0 +1,1 @@
+Can we introduce a goal tree to improve observability? Do we need to?

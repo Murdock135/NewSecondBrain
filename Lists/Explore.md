@@ -26,3 +26,4 @@
 - [ ] claude code vs codex cli
 - [ ] collaborating using docker
 - [ ] https://student.mit.edu/catalog/m8a.html#8.033
+- [ ] https://www.phdgps.com/

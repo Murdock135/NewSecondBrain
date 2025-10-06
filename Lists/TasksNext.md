@@ -1,5 +1,5 @@
 - [ ] #task Apply for new I-20 form
-- [ ] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm
+- [x] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm ✅ 2025-10-05
 - [ ] #task Write abstract
-- [ ] #task Read literature mitesh sent out
-- [ ] #task create likert scale
+- [ ] #task Skim recent literature on TQA systems
+	- [x] #task TableMaster ✅ 2025-10-05
