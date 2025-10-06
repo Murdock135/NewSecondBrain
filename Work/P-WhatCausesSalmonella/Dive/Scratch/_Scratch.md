@@ -1,5 +1,0 @@
----
-tags: MOCs
----
-
-[[_Rambling]]

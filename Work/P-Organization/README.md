@@ -6,4 +6,4 @@ type:
   - Personal
 ---
 
-[[Work/P-Organization/Dive/Tasks|Tasks]] | [[Work/P-Organization/Dive/Milestones|Milestones]] | [[Work/P-WhatCausesSalmonella/Dive/Reading|Reading]] | [[Work/P-Organization/Dive/References|References]] | 
+[[Work/P-Organization/Dive/Tasks|Tasks]] | [[Work/P-Organization/Dive/Milestones|Milestones]] | [[Work/P-AgenticSystem/Dive/Reading|Reading]] | [[Work/P-Organization/Dive/References|References]] | 

@@ -1,0 +1,1 @@
+- [ ] #task write how to restart numbering in obsidian
