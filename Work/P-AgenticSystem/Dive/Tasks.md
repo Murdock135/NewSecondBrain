@@ -1,6 +1,6 @@
 - [x] #task Write abstract ✅ 2025-10-06
 - [ ] #task Use short term AWS API #planned 
-- [ ] #task Think about experiments
+- [x] #task Think about experiments ✅ 2025-10-07
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [ ] #task Learn how to pull in code from other remote branches
 - [ ] #task Restructure project
@@ -10,9 +10,8 @@
 - [ ] #task Create run scripts for mitesh and Dr. Kangogo
 - [ ] #task listen to recording of meeting with Dr. A.
 - [ ] #task Create the weather calling tool
-- [ ] #task Calculate/estimate compute needed 
+- [x] #task Calculate/estimate compute needed ✅ 2025-10-07
 	- [x] LLM calls API ✅ 2025-07-29
-	- [ ] Logging API (langsmith)
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
 - [ ] #task Create a doc with issues/requests/ramblings #planned
 - [ ] #task Integrate tools
@@ -27,8 +26,6 @@
 - [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
 - [ ] #task create a script to extract raw poultry sampling data
 - [ ] #task Write READMEs for the datasets on huggingface. #discuss
-- [ ] #task Write a README.md on how to use data. Explain who to request access from, how to use the data and where to keep results in.
-- [ ] #task create list of important variables (written in notepad)
 
 # Archived
 

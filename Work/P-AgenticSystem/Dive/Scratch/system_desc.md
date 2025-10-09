@@ -50,6 +50,7 @@ Note that while it does disclose its results, assumptions, wants and misc inform
 The aggregator simply writes a report based on the executor's results.
 
 # Evaluating the system
+- Testing the system on Popular QA datasets like WikiTQ, TableBench, etc.1
 - A dataset of questions has been created, comprised of questions sent by various health experts. Answers will be obtained for those questions and sent to the experts to be graded on a likert scale. Voluntary annotations from the experts will also be accepted.
 - Do a sweep study wherein you shall study 'how good a language model do you need to make the system do well'. Use Bedrock models to do this since you have API credits.
 - Check how many computational steps the planner plans to do. Each computational step is a step like 'finding correlation',  'building a regression model', etc.
