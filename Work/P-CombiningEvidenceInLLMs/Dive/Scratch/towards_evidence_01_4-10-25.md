@@ -9,7 +9,7 @@ LLMs produce distributions over tokens, which do not neatly correspond to discre
 3. *Should* the training data be different?
 
 Since there could be *similarity or association* between the hidden training data of 2 different language models, **can we develop *correlation*-aware output combination rules**? This is very difficult to do as every time we're tasked with combining outputs between $LLM_1$ and $LLM_2$, we require knowledge of their training data; what training data was used and how much similarity there was between the training data. Furthermore, we do not have access to the training data for closed sourced LLMs such as ChatGPT, Gemini, etc. The easy way out of this is to **take models from Huggingface that you know were trained on completely different datasets**.
-We may be able to sidestep the above limitation of the training data being hidden by ***extrapolating* independence from the behavior of different LLMs.** A simple test recommended by ChatGPT (although I don't like it) is to mark two differrent LLMs only if a number of their outputs are in conflict (low *similarity*).
+We may be able to sidestep the above limitation of the training data being hidden by ***extrapolating* independence from the behavior of different LLMs.** A simple test recommended by ChatGPT (although this is very faulty) is to mark two differrent LLMs only if a number of their outputs are in conflict (low *similarity*).
 
 ---
 Now we demonstrate an example where an evidence theory can be applied to combine outputs from LLMs. Two LLMs are asked whether a patient’s symptoms suggest a viral or bacterial infection. One model, drawing on its internal associations, produces a confident answer of “viral.” Another produces a nuanced response pointing toward bacterial causes, citing subtle risk factors. A human decision-maker is then faced with conflicting, partially overlapping evidence—where neither model can be dismissed outright, but their combination cannot be handled by simple majority vote or averaging probabilities. In domains like healthcare, law, or national security, such scenarios are not hypothetical: the ability to combine evidence from multiple AI systems with rigor and transparency may be critical to both safety and trust.
@@ -41,6 +41,9 @@ STATE: Almost defined in Euclidean Space
 CONDITION: Convergent if Surface = Mobius (Hot)
 ```
 We need to figure out what **the amount of semantic overlap** between this and the previous statement is. 
+
+# Extracting belief masses from LLM outputs
+LLMs have been trained to 'talk a lot' for whatever reason. So merely counting the number of justifications for the LLM's hypotheses is not a good measure for its belief. Using the limited vocabulary concept in [[#Towards defining conflict (natural language level)]] evades this issue.
 
 ---
 # Accounting for randomness
