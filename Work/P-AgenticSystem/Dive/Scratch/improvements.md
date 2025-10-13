@@ -6,4 +6,4 @@ Several improvements to the system could be made
 > 10-8-2025
 
 - Verbalizing the table content may be better. May also be unnecessary. Maybe this depends on the model we're using.
--
+- Can we introduce a goal tree to improve observability? Do we need to? Langgraph itself is a goal tree. We can increase the granularity of the tree.

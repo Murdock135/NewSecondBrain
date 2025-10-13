@@ -1,5 +1,5 @@
 - [x] #task Write abstract ✅ 2025-10-06
-- [ ] #task Use AWS API #planned 
+- [ ] #task Use short term AWS API #planned 
 - [ ] #task Think about experiments
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [ ] #task Learn how to pull in code from other remote branches

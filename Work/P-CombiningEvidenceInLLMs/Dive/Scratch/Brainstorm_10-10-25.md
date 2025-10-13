@@ -1,0 +1,1 @@
+The combination rule should be a deterministic function. A set of evidence should map to one single output. Thus, the problem isn't as trivial as just letting an other LLM combine the outputs of the information source LLMs.

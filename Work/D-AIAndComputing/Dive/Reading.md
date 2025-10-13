@@ -2,7 +2,7 @@
 - [ ] Learn about pdb (python debugger) (30m) #read
 - [ ] Read python docs 4.9 (recap-intermezzo) #read
 - [ ] Read Chapter 1 of Abstract algebra #ongoing
-- [ ] Read dempster shafer theory #ongoing #read 
+- [x] Read dempster shafer theory #ongoing #read
 - [ ] Physics informed neural networks with hard constraints for inverse design #read
 - [ ] https://plato.stanford.edu/entries/abduction/ #read 
 - [ ] https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf #read
@@ -22,9 +22,9 @@
 - [ ] #read [Video on Python Internals](https://youtu.be/f8nTJp_k7U8?si=FCZ0cnSs1TVq8mw_)
 # Docker
 
-- [ ] #read Everything in https://docs.docker.com/manuals/
-	- [ ] #read [docker bake](https://docs.docker.com/build/bake/)
-	- [ ] #read [Multi-Stage Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/#use-multi-stage-builds)
+- [x] #read Everything in https://docs.docker.com/manuals/
+	- [x] #read [docker bake](https://docs.docker.com/build/bake/)
+	- [x] #read [Multi-Stage Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/#use-multi-stage-builds)
 - [ ] #read [Agentic AI with docker](https://docs.docker.com/guides/agentic-ai/)
 # UV
 - [ ] #read everything in docs

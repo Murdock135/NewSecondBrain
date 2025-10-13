@@ -1,1 +1,0 @@
-- [x] #read https://github.com/astral-sh/uv-docker-example
