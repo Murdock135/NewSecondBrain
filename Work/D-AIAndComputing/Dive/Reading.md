@@ -16,6 +16,7 @@
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing #read
 - [x] https://docs.astral.sh/uv/guides/integration/docker/ #read 
 - [ ] [How to contribute to open source](https://www.youtube.com/watch?v=CML6vfKjQss) #read
+- [ ] [Explanation of Chomsky's paper](https://web.mit.edu/6.441/spring06/projects/1/aak@mit.edu.1.pdf)
 # Python
 - [ ] #read https://peps.python.org/pep-3147/#flow-chart
 - [ ] #read https://packaging.python.org/en/latest/overview/
