@@ -52,6 +52,7 @@ Note: This is list is ever-growing.
 19. SVD
 20. SVM
 21. Eigen decomposition
+22. [RLHF](https://huggingface.co/blog/rlhf) #read
 
 # Archived
 

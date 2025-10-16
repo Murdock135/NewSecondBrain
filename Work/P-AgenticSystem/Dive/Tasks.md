@@ -1,6 +1,4 @@
-- [x] #task Write abstract ✅ 2025-10-06
 - [ ] #task Use short term AWS API #planned 
-- [x] #task Think about experiments ✅ 2025-10-07
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [ ] #task Learn how to pull in code from other remote branches
 - [ ] #task Restructure project
@@ -10,8 +8,6 @@
 - [ ] #task Create run scripts for mitesh and Dr. Kangogo
 - [ ] #task listen to recording of meeting with Dr. A.
 - [ ] #task Create the weather calling tool
-- [x] #task Calculate/estimate compute needed ✅ 2025-10-07
-	- [x] LLM calls API ✅ 2025-07-29
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
 - [ ] #task Create a doc with issues/requests/ramblings #planned
 - [ ] #task Integrate tools
@@ -90,3 +86,7 @@
 - [x] #task Docker build script should ask whether the user has already downloaded the data. If not, it should create a docker volume, change the HF_HOME, download the data and then start the project ✅ 2025-09-28 🔒 [[2025-10-03]] 🕸️ Tasks
 - [x] #task Send the system names to team #planned ✅ 2025-09-28 🔒 [[2025-10-03]] 🕸️ Tasks
 - [x] #task Rewrite README ✅ 2025-09-29 🔒 [[2025-10-03]] 🕸️ Tasks
+- [x] #task Write abstract ✅ 2025-10-06 🔒 [[2025-10-14]] 🕸️ Tasks
+- [x] #task Think about experiments ✅ 2025-10-07 🔒 [[2025-10-14]] 🕸️ Tasks
+- [x] #task Calculate/estimate compute needed ✅ 2025-10-07 🔒 [[2025-10-14]] 🕸️ Tasks
+	- [x] LLM calls API ✅ 2025-07-29

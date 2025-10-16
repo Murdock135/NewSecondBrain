@@ -1,0 +1,8 @@
+- [ ] #read illusion of thinking paper
+- [ ] #read humanity's last exam
+- [ ] #read Gambling paper
+- [ ] #read Automated hypothesis generation with agentic sequential falsification
+- [ ] #read the role of LLMs in theory building
+- [ ] #read Exploring the role of large language models in the scientific method: from hypothesis to discovery
+- [ ] #read From Evidence to Belief 
+- [ ] #read Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey
