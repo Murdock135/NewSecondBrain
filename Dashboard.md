@@ -16,6 +16,8 @@ not done
 - Books
 ```apb
 Crime and Punishment: 170/420
+Analysis I (Terence Tao): 5/550
+Abstract Algebra (Claudia Menini): 40/700
 ```
 
 

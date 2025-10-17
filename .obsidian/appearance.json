@@ -2,5 +2,7 @@
   "cssTheme": "Encore",
   "theme": "obsidian",
   "textFontFamily": "",
-  "interfaceFontFamily": "Helvetica"
+  "interfaceFontFamily": "Helvetica",
+  "accentColor": "#2fc65c",
+  "translucency": false
 }
