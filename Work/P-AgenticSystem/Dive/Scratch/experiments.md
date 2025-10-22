@@ -6,3 +6,14 @@ What experiments can we do ?
 - Other papers are doing ablation studies.
 - Adversarial prompting (check [[system_desc]])
 - How many planning steps it takes to get a good plan according to our likert scales.
+
+---
+Each component agent has the following degrees of freedom
+1. The query itself
+2. Role
+3. Constraints
+4. Data
+5. Additional context (Planner gets RAG extracted info
+6. Memory (Executor)
+
+- We can do a study of how strictly the executor adheres to the planner's plan. 

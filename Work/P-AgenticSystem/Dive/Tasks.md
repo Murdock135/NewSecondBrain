@@ -5,6 +5,9 @@
 	- [ ] #task Learn To use Ruff and pkgutils
 	- [ ] #task Write the import tests file
 - [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task Create diagrams
+	- [ ] #task Architecture
+	- [ ] #task Operating principle
 - [ ] #task Learn how to pull in code from other remote branches
 - [ ] #task Restructure project
 - [ ] #task Create a formatter node that will format the final answer nicely. 
