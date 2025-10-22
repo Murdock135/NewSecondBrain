@@ -17,3 +17,5 @@ Each component agent has the following degrees of freedom
 6. Memory (Executor)
 
 - We can do a study of how strictly the executor adheres to the planner's plan. 
+- Benchmark the system on HLE's healthscience related questions and our in house dataset.
+- Make comparisons with off the shelf LLMs and previous agentic architectures.
