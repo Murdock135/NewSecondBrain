@@ -1,11 +1,11 @@
 
 - [ ] #task Check Mitesh's node
 - [ ] #task Progress on formalizing the 'combining evidence' problem
-- [ ] #task Create diagrams
-	- [ ] #task Architecture
+- [x] #task Create diagrams ✅ 2025-10-27
+	- [x] #task Architecture ✅ 2025-10-27
 	- [x] #task Operating principle ✅ 2025-10-22
 - [ ] #task Formulate research stream for studying whether LLMs can replicate the scientific method
-- [ ] #task Formulate experiments for agentic system
+- [x] #task Formulate experiments for agentic system ✅ 2025-10-27
 
 
 # Archived
