@@ -1,4 +1,8 @@
 - [ ] Read https://plato.stanford.edu/entries/artificial-intelligence/ #read
+- [ ] https://www.anthropic.com/engineering/building-effective-agents #read 
+- [ ] https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf #read
+- [ ] https://developers.openai.com/tracks/building-agents/ #read
+- [ ] https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus #read
 - [ ] Learn about pdb (python debugger) (30m) #read
 - [ ] Read python docs 4.9 (recap-intermezzo) #read
 - [ ] Read Chapter 1 of Abstract algebra #ongoing

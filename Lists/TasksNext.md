@@ -1,5 +1,5 @@
 
-- [ ] #task Check Mitesh's node
+- [x] #task Check Mitesh's node ✅ 2025-10-27
 - [ ] #task Progress on formalizing the 'combining evidence' problem
 - [x] #task Create diagrams ✅ 2025-10-27
 	- [x] #task Architecture ✅ 2025-10-27

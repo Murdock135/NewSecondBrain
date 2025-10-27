@@ -2,6 +2,11 @@
 
 - [ ] #task Use short term AWS API #planned
 - [ ] #task Run one question 5 times
+- [ ] #task set up CLI args 
+	- [ ] #task pick output location
+	- [ ] #task pick LLM provider and model
+	- [ ] #task make verbose or not
+- [ ] #task set up logging with hydra (and perhaps structlog). recommended code: https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd
 - [ ] #task Set up import tests
 	- [ ] #task Learn To use Ruff and pkgutils
 	- [ ] #task Write the import tests file
@@ -14,7 +19,6 @@
 - [ ] #task Create a formatter node that will format the final answer nicely. 
 - [ ] #task Read literature mitesh sent out
 - [ ] #task create likert scale
-- [ ] #task Create run scripts for mitesh and Dr. Kangogo
 - [ ] #task listen to recording of meeting with Dr. A.
 - [ ] #task Create the weather calling tool
 - [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
