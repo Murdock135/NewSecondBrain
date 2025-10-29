@@ -1,5 +1,5 @@
 
-
+- [ ] #task Plan how to restructure
 - [ ] #task Use short term AWS API #planned
 - [ ] #task Run one question 5 times
 - [ ] #task set up CLI args 

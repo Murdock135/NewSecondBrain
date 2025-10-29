@@ -35,6 +35,7 @@
 - [ ] [Write yourself a git](https://wyag.thb.lt/)
 - [ ] #course [Computer Graphics](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 - [ ] #course [Compilers](https://youtu.be/5ZmFlxrNaN8?si=y0gYvnXZB-_pPqdL)
+- [ ] #course (paid) https://www.designgurus.io/course/grokking-system-design-fundamentals
 
 # Math
 ## Statistics

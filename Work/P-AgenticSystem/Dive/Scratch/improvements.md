@@ -9,3 +9,5 @@ Several improvements to the system could be made
 - Token budgeting: How do we do this?
 - Sub-research questions
 - Hypothesis generation and falsification like POPPER.
+- Output safety validation
+- Prompt optimization

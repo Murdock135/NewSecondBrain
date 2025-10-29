@@ -1,7 +1,6 @@
 
 - [ ] #milestone Do a project with Lambda
 - [ ] #milestone Read **bash** reference manual 
-- [ ] #milestone Configure neovim
 - [ ] #milestone Do Huggingface's course 
 - [ ] #milestone Read Using Github https://docs.github.com/en/get-started/using-github
 - [ ] #milestone Finish reading python docs #ongoing 
@@ -13,11 +12,12 @@
 - [ ] #milestone learn Distrobox  
 - [ ] #milestone Read 'Modern Operating systems' By Andrew Tanenbaum
 - [ ] #milestone Read the big paper: The Rise and Potential of Large Language Model Based Agents: A Survey
-- [ ] #milestone Combination of evidence in Dempster shafer theory
 - [ ] #milestone Make a contribution to Neovim
 - [ ] #milestone do Andrej Karpathy's LLMs from scratch course
 - [ ] #milestone read python setup and usage https://docs.python.org/3/using/index.html
 - [ ] #milestone Learn github PR's and actions from [Github foundations course](https://www.youtube.com/watch?v=Jdc0i7RcBv8)
+- [ ] #milestone Learn [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [ ] #milestone Learn [OpenAI dev docs](https://platform.openai.com/docs/overview)
 
 # Archived
 
@@ -26,3 +26,5 @@
 - [x] #milestone read dockerfile ref https://docs.docker.com/reference/dockerfile/#overview ✅ 2025-09-03 🔒 [[2025-09-21]] 🕸️ Milestones
 - [x] #milestone Do a project with Langchain #ongoing  🔒 [[2025-09-21]] 🕸️ Milestones
 - [x] #milestone Read vim tutor #ongoing 🔒 [[2025-09-21]] 🕸️ Milestones
+- [x] #milestone Configure neovim 🔒 [[2025-10-29]] 🕸️ Milestones
+- [x] #milestone Combination of evidence in Dempster shafer theory 🔒 [[2025-10-29]] 🕸️ Milestones
