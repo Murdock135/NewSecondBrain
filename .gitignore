@@ -1,6 +1,7 @@
 # Ignore .obsidian
 .obsidian/
 
+!.obsidian/plugins/
 !.obsidian/app.json
 !.obsidian/appearance.json
 !.obsidian/community-plugins.json
