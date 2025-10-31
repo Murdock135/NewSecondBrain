@@ -11,3 +11,4 @@
 - [ ]  [Unsupervised Commonsense Question Answering with Self-Talk](https://aclanthology.org/2020.emnlp-main.373.pdf)
 - [ ] [Prompt based QA](https://ieeexplore-ieee-org.proxy.mul.missouri.edu/stamp/stamp.jsp?tp=&arnumber=10723112)
 - [ ] https://github.com/anthropics/claude-cookbooks/tree/main/patterns/agents
+- [ ] https://www.thelancet.com/action/showPdf?pii=S2589-7500%2824%2900124-9
