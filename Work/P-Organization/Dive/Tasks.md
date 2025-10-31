@@ -3,3 +3,5 @@
 - [ ] #task Start papis
 - [ ] #task Set up display manager in EOS
 - [ ] #task Set up Niri
+- [ ] #task Script to install and enable nvm
+- [ ] #task Script to disable nvm

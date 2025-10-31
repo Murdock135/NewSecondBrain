@@ -1,5 +1,5 @@
 # Read Next
-- [ ] [Building effective agents (anthropic)](https://www.anthropic.com/engineering/building-effective-agents)
+- [x] [Building effective agents (anthropic)](https://www.anthropic.com/engineering/building-effective-agents)
 - [ ] [Building agents dev guide(openai)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 - [ ] [Building agents practical guide book (openai)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 

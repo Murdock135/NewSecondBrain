@@ -1,3 +1,4 @@
+- [x] #task Write something in the monthly report ✅ 2025-10-31
 - [ ] #task Complete reading from [[Lists/Reading#Read Next|Read Next]]
 - [x] #task Write Methods section draft ✅ 2025-10-30
 - [ ] #task Create system diagram with draw io (20m)

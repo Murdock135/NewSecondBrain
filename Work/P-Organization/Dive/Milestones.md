@@ -5,6 +5,7 @@
 - [ ] #milestone Build a finance excel sheet to track finances
 - [ ] #milestone move digital library to papis or cobib
 - [ ] #milestone set up EndeavorOS
+- [ ] #milestone Create a personal website
 
 # Archived
 

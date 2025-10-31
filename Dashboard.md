@@ -6,7 +6,9 @@ not done
 
 # Ongoing Projects
 - Academic
-	- Research on LLMs: (1) Epistemology on LLMs (2) Combining Evidence
+	- Research on LLMs: (1) 
+		1. Agentic System for pathogen analysis
+		2. Combining Evidence
 	- Course- [Nand2Tetris](https://www.coursera.org/learn/build-a-computer/home/module/1)
 		- Next Lesson- Unit 1.4: Hardware Description Language
 	- Course- Principles of Programming Languages
@@ -15,12 +17,10 @@ not done
 	- Football
 - Books
 ```apb
-Crime and Punishment: 170/420
+Crime and Punishment: 196/420
 Analysis I (Terence Tao): 5/550
 Abstract Algebra (Claudia Menini): 40/700
 ```
-
-
 
 
 ---
