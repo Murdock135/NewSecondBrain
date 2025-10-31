@@ -1,5 +1,6 @@
 - [ ] #task Complete reading from [[Lists/Reading#Read Next|Read Next]]
-- [ ] #task Write Methods section draft
+- [x] #task Write Methods section draft ✅ 2025-10-30
+- [ ] #task Create system diagram with draw io (20m)
 - [ ] #task Progress on formalizing the 'combining evidence' problem
 - [ ] #task Create diagrams
 	- [ ] #task Architecture
