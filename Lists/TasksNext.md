@@ -1,6 +1,5 @@
-- [x] #task Write something in the monthly report ✅ 2025-10-31
+- [ ] #task Come up with commit templates for obsidian vaults
 - [ ] #task Complete reading from [[Lists/Reading#Read Next|Read Next]]
-- [x] #task Write Methods section draft ✅ 2025-10-30
 - [ ] #task Create system diagram with draw io (20m)
 - [ ] #task Progress on formalizing the 'combining evidence' problem
 - [ ] #task Create diagrams
@@ -16,3 +15,5 @@
 - [x] #task Rewrite abstract ✅ 2025-10-15 🔒 [[2025-10-15]] 🕸️ TasksNext
 - [x] #task Check Mitesh's node ✅ 2025-10-27 🔒 [[2025-10-28]] 🕸️ TasksNext
 - [x] #task Formulate experiments for agentic system ✅ 2025-10-27 🔒 [[2025-10-28]] 🕸️ TasksNext
+- [x] #task Write Methods section draft ✅ 2025-10-30 🔒 [[2025-11-01]] 🕸️ TasksNext
+- [x] #task Write something in the monthly report ✅ 2025-10-31 🔒 [[2025-11-01]] 🕸️ TasksNext
