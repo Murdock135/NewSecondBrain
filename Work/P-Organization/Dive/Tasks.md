@@ -2,7 +2,10 @@
 - [ ] #task incorporate aerospace tiling in mac
 - [ ] #task get a notebook that shows the calendar right beside the notes section
 - [ ] #task Start papis
-- [ ] #task Set up display manager in EOS
-- [ ] #task Set up Niri
 - [ ] #task Script to install and enable nvm
 - [ ] #task Script to disable nvm
+- [ ] #task Organize google photos
+- [ ] #task Download and set font. Then set up script to download font
+- [ ] #task Track `config/konsave/`
+# Archived
+- [x] #task Set up display manager in EOS ✅ 2025-11-01 🔒 [[2025-11-01]] 🕸️ Tasks

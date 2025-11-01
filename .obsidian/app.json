@@ -2,5 +2,7 @@
   "userIgnoreFilters": null,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachments",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "vimMode": true,
+  "showLineNumber": true
 }
