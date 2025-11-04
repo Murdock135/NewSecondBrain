@@ -6,6 +6,7 @@
 	- [ ] #task pick output location
 	- [ ] #task pick LLM provider and model
 	- [ ] #task make verbose or not
+- [ ] #task Build guardrails- openai moderation api
 - [ ] #task set up logging with hydra (and perhaps structlog). recommended code: https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd
 - [ ] #task Set up import tests
 	- [ ] #task Learn To use Ruff and pkgutils
