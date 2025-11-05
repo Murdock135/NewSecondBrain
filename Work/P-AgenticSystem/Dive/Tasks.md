@@ -12,9 +12,6 @@
 	- [ ] #task Learn To use Ruff and pkgutils
 	- [ ] #task Write the import tests file
 - [ ] #task fix the df summary extraction code for *census_population* data.
-- [ ] #task Create diagrams
-	- [ ] #task Architecture
-	- [ ] #task Operating principle
 - [ ] #task Learn how to pull in code from other remote branches
 - [ ] #task Restructure project
 - [ ] #task Create a formatter node that will format the final answer nicely. 
@@ -104,3 +101,5 @@
 - [x] #task Think about experiments ✅ 2025-10-07 🔒 [[2025-10-14]] 🕸️ Tasks
 - [x] #task Calculate/estimate compute needed ✅ 2025-10-07 🔒 [[2025-10-14]] 🕸️ Tasks
 	- [x] LLM calls API ✅ 2025-07-29
+- [x] #task Create diagrams ✅ 2025-11-04 🔒 [[2025-11-04]] 🕸️ Tasks
+	- [x] #task Architecture ✅ 2025-11-04

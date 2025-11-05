@@ -1,12 +1,8 @@
 - [ ] Read https://plato.stanford.edu/entries/artificial-intelligence/ #read
-- [x] https://www.anthropic.com/engineering/building-effective-agents #read 
-- [ ] https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf #read
-- [ ] https://developers.openai.com/tracks/building-agents/ #read
 - [ ] https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus #read
 - [ ] Learn about pdb (python debugger) (30m) #read
 - [ ] Read python docs 4.9 (recap-intermezzo) #read
 - [ ] Read Chapter 1 of Abstract algebra #ongoing
-- [x] Read dempster shafer theory #ongoing #read
 - [ ] Physics informed neural networks with hard constraints for inverse design #read
 - [ ] https://plato.stanford.edu/entries/abduction/ #read 
 - [ ] https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf #read
@@ -18,7 +14,6 @@
 - [ ] https://www.anthropic.com/research/reasoning-models-dont-say-think #read
 - [ ] https://www.anthropic.com/research/tracing-thoughts-language-model #read
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing #read
-- [x] https://docs.astral.sh/uv/guides/integration/docker/ #read 
 - [ ] [How to contribute to open source](https://www.youtube.com/watch?v=CML6vfKjQss) #read
 - [ ] [Explanation of Chomsky's paper](https://web.mit.edu/6.441/spring06/projects/1/aak@mit.edu.1.pdf)
 # Python
@@ -27,9 +22,6 @@
 - [ ] #read [Video on Python Internals](https://youtu.be/f8nTJp_k7U8?si=FCZ0cnSs1TVq8mw_)
 # Docker
 
-- [x] #read Everything in https://docs.docker.com/manuals/
-	- [x] #read [docker bake](https://docs.docker.com/build/bake/)
-	- [x] #read [Multi-Stage Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/#use-multi-stage-builds)
 - [ ] #read [Agentic AI with docker](https://docs.docker.com/guides/agentic-ai/)
 # UV
 - [ ] #read everything in docs
@@ -63,3 +55,11 @@ Note: This is list is ever-growing.
 - [x] #read Dockerfile syntax ✅ 2025-09-09 🔒 [[2025-09-21]] 🕸️ Docker
 - [x] #read Do the docker workshop ✅ 2025-09-19 🔒 [[2025-09-21]] 🕸️ Docker
 - [x] #read Everything in https://docs.docker.com/get-started/ up to 'Running containers' ✅ 2025-09-19 🔒 [[2025-09-21]] 🕸️ Docker
+- [x] https://www.anthropic.com/engineering/building-effective-agents #read  🔒 [[2025-11-04]] 🕸️ Reading
+- [x] https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf #read 🔒 [[2025-11-04]] 🕸️ Reading
+- [x] https://developers.openai.com/tracks/building-agents/ #read 🔒 [[2025-11-04]] 🕸️ Reading
+- [x] Read dempster shafer theory #ongoing #read 🔒 [[2025-11-04]] 🕸️ Reading
+- [x] https://docs.astral.sh/uv/guides/integration/docker/ #read  🔒 [[2025-11-04]] 🕸️ Reading
+- [x] #read Everything in https://docs.docker.com/manuals/ 🔒 [[2025-11-04]] 🕸️ Docker
+	- [x] #read [docker bake](https://docs.docker.com/build/bake/)
+	- [x] #read [Multi-Stage Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/#use-multi-stage-builds)

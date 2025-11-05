@@ -1,5 +1,5 @@
 - [ ] #task Come up with commit templates for obsidian vaults
-- [ ] #task Complete reading from [[Lists/Reading#Read Next|Read Next]]
+- [x] #task Complete reading from [[Lists/Reading#Read Next|Read Next]] ✅ 2025-11-04
 - [ ] #task Write Methods section draft
 - [ ] #task Progress on formalizing the 'combining evidence' problem
 - [ ] #task Formulate research stream for studying whether LLMs can replicate the scientific method

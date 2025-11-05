@@ -1,7 +1,7 @@
 # Read Next
-- [x] [Building effective agents (anthropic)](https://www.anthropic.com/engineering/building-effective-agents)
-- [x] [Building agents dev guide(openai)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
-- [ ] [Building agents practical guide book (openai)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+- [x] #read Agentic Context Engineering 
+- [ ] #read Haykin's first chapter (46 pages--46/5 days = 10 pages/day)
+- [ ] #read [Keys, Queries and Values (D2L.ai)](https://d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html) (3 hours)
 
 # Unordered reading queue
 ```dataview
