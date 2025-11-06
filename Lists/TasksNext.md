@@ -1,6 +1,5 @@
 - [ ] #task Come up with commit templates for obsidian vaults
-- [x] #task Complete reading from [[Lists/Reading#Read Next|Read Next]] ✅ 2025-11-04
-- [ ] #task Write Methods section draft
+- [x] #task Write Methods section draft ✅ 2025-11-05
 - [ ] #task Progress on formalizing the 'combining evidence' problem
 - [ ] #task Formulate research stream for studying whether LLMs can replicate the scientific method
 # Archived
@@ -13,4 +12,5 @@
 - [x] #task Write something in the monthly report ✅ 2025-10-31 🔒 [[2025-11-01]] 🕸️ TasksNext
 - [x] #task Set up docker on EOS ✅ 2025-11-02 🔒 [[2025-11-02]] 🕸️ TasksNext
 - [x] #task Write script for setting up docker (or download it from somewhere) ✅ 2025-11-02 🔒 [[2025-11-02]] 🕸️ TasksNext
+- [x] #task Complete reading from [[Lists/Reading#Read Next|Read Next]] ✅ 2025-11-03 🔒 [[2025-11-03]] 🕸️ TasksNext
 - [x] #task Create system diagram with draw io (20m) ✅ 2025-11-03 🔒 [[2025-11-03]] 🕸️ TasksNext
