@@ -1,4 +1,4 @@
-- [ ] #read illusion of thinking paper
+- [x] #read illusion of thinking paper ✅ 2025-11-05
 - [ ] #read humanity's last exam
 - [ ] #read Gambling paper
 - [ ] #read Automated hypothesis generation with agentic sequential falsification
