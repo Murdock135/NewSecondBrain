@@ -1,5 +1,11 @@
 
-- [x] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm ✅ 2025-11-08
 - [ ] #task Create the project structure, the registry pattern, one SDK integration
 	- [ ] #read Python tutorial on classes (2 hours)
 	- [ ] #read 
+- [x] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm ✅ 2025-11-06
+- [ ] #task Explore Abstract Meaning Representation graphs and Semantic Role Labelling (SRL)
+- [ ] #task Code the claude integration
+- [ ] #task code the AWS integration
+- [ ] #task code the ollama integration
+- [ ] #task code the first hypothesis extractor
+- [x] #task Create Project structure ✅ 2025-11-10

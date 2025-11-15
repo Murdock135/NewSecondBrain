@@ -1,4 +1,4 @@
-
+- [ ] #task Make the diagram more detailed. Depict the information the planner has access to.
 - [ ] #task Plan how to restructure
 - [ ] #task Use short term AWS API #planned
 - [ ] #task Run one question 5 times

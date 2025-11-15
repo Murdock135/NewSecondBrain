@@ -12,12 +12,13 @@
 - [ ] #milestone learn Distrobox  
 - [ ] #milestone Read 'Modern Operating systems' By Andrew Tanenbaum
 - [ ] #milestone Read the big paper: The Rise and Potential of Large Language Model Based Agents: A Survey
-- [ ] #milestone Make a contribution to Neovim
+- [ ] #milestone Read the entirity of Neovim docs
 - [ ] #milestone do Andrej Karpathy's LLMs from scratch course
 - [ ] #milestone read python setup and usage https://docs.python.org/3/using/index.html
 - [ ] #milestone Learn github PR's and actions from [Github foundations course](https://www.youtube.com/watch?v=Jdc0i7RcBv8)
 - [ ] #milestone Learn [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [ ] #milestone Learn [OpenAI dev docs](https://platform.openai.com/docs/overview)
+- [ ] #milestone Learn unittesting in python
 
 # Archived
 

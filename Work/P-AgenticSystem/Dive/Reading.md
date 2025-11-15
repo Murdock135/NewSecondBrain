@@ -1,4 +1,5 @@
 - [x] #read illusion of thinking paper ✅ 2025-11-05
+- [ ] #read [Kosmos: AI scientist](https://arxiv.org/pdf/2511.02824)
 - [ ] #read humanity's last exam
 - [ ] #read Gambling paper
 - [ ] #read Automated hypothesis generation with agentic sequential falsification

@@ -9,3 +9,5 @@ tags: MOCs
 [[experiments]]
 [[journals]]
 [[note_10-7-2025]]
+***
+[[restructuring]]
