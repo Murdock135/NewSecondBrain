@@ -12,3 +12,4 @@
 - [ ] [Prompt based QA](https://ieeexplore-ieee-org.proxy.mul.missouri.edu/stamp/stamp.jsp?tp=&arnumber=10723112)
 - [ ] https://github.com/anthropics/claude-cookbooks/tree/main/patterns/agents
 - [ ] https://www.thelancet.com/action/showPdf?pii=S2589-7500%2824%2900124-9
+- [ ] https://www.semanticscholar.org/reader/a1408bfa829144b16d38c48c456d014e3e00d8c9

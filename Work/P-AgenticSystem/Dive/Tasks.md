@@ -1,4 +1,8 @@
-- [ ] #task Make the diagram more detailed. Depict the information the planner has access to.
+- [x] #task Make the diagram more detailed. Depict the information the planner has access to. ✅ 2025-12-02
+- [ ] #task Include an example run in the methods section
+- [ ] #task Create a custom python repl
+	- Refs:
+		- https://docs.python.org/3/library/code.html#module-code
 - [ ] #task Plan how to restructure
 - [ ] #task Use short term AWS API #planned
 - [ ] #task Run one question 5 times
