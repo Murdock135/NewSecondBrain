@@ -4,3 +4,4 @@
 - [x] #task upload c book by biju to google drive ✅ 2025-09-21
 - [ ] #task Peruse your google drive library
 - [ ] #task Learn how to use github for project management
+- [ ] #task learn about using MCP

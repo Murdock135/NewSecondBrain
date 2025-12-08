@@ -1,7 +1,6 @@
 - [ ] #task Come up with commit templates for obsidian vaults
 - [x] #task Write Methods section draft ✅ 2025-11-05
 - [x] #task Make the system diagram ✅ 2025-12-03
-- [ ] #task Complete PL assignment
 # Archived
 
 - [x] #task Make a list of literature to read ✅ 2025-10-15 🔒 [[2025-10-15]] 🕸️ TasksNext

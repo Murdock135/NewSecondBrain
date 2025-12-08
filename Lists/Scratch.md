@@ -1,0 +1,9 @@
+This is where ad-hoc tasks and roadmaps live
+
+# Writing good code for building an agentic library
+Roadmap:
+1. [HTTP crash course (Traversy media)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+2. [HTTPS documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview#basic_aspects_of_http)
+3. [Python async](https://docs.python.org/3/library/asyncio-task.html)
+4. [Python design patterns](https://www.youtube.com/watch?v=gAeZpA6avsA)
+5. [Google API reference](https://ai.google.dev/api)

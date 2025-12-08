@@ -17,14 +17,15 @@
 - [ ] [How to contribute to open source](https://www.youtube.com/watch?v=CML6vfKjQss) #read
 - [ ] [Explanation of Chomsky's paper](https://web.mit.edu/6.441/spring06/projects/1/aak@mit.edu.1.pdf)
 # Python
-- [ ] #read https://peps.python.org/pep-3147/#flow-chart
+- [ ] #read https://peps.python.org/pep-3147/#flow-chart 
 - [ ] #read https://packaging.python.org/en/latest/overview/
 - [ ] #read [Video on Python Internals](https://youtu.be/f8nTJp_k7U8?si=FCZ0cnSs1TVq8mw_)
+- [ ] #read [video on async programming in python by corey schafer](https://www.youtube.com/watch?v=oAkLSJNr5zY)
 # Docker
 
 - [ ] #read [Agentic AI with docker](https://docs.docker.com/guides/agentic-ai/)
 # UV
-- [ ] #read everything in docs
+- [x] #read everything in docs ✅ 2025-12-05
 # Artificial Intelligence topics
 Note: This is list is ever-growing.
 1. RNNs

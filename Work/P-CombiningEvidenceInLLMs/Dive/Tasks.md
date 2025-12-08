@@ -4,7 +4,7 @@
 - [ ] #task code the AWS integration
 - [ ] #task code the ollama integration
 - [ ] #task Rewrite the system prompt
-- [ ] #task Restructure the model inputs
+- [ ] #task Restructure the model inputs so that we can control the amount of conflict that each model will have. For example, perhaps M1 and M2 align and together contradict with M3. 
 
 # Archived
 

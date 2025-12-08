@@ -8,7 +8,10 @@
 	- [Build a 65c02-based computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=P5kDVm81F_Sl0Ey7)
 	- [build your own package manager (typescript)](https://github.com/g-plane/tiny-package-manager)
 	- [Computation structures (MIT)](https://ocw.mit.edu/ans7870/6/6.005/s16/)
-- 
+	- [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+	- [Series of Courses on C using linux](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Artificial Intelligence topics|Artificial Intelligence readings]]
+	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Python|Python readings]]
 ___ 
 ## Parallel work
 - Language Models (D2L.ai)
