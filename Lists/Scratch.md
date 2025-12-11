@@ -7,3 +7,12 @@ Roadmap:
 3. [Python async](https://docs.python.org/3/library/asyncio-task.html)
 4. [Python design patterns](https://www.youtube.com/watch?v=gAeZpA6avsA)
 5. [Google API reference](https://ai.google.dev/api)
+
+# Packaging python code
+- [x] https://packaging.python.org/en/latest/overview/ ✅ 2025-12-10
+- [x] https://www.youtube.com/watch?v=v6tALyc4C10 ✅ 2025-12-10
+- [ ] https://packaging.python.org/en/latest/tutorials/packaging-projects/
+- [ ] https://docs.python.org/3/tutorial/modules.html#packages
+- [ ] [python importing techniques and shadowing](https://www.youtube.com/watch?v=eYTXC3lQyqc)
+- [ ] [The packaging gradient](https://youtu.be/iLVNWfPWAC8?si=Msc6WFZ_OF8en0Hs)
+- [ ] https://docs.astral.sh/uv/concepts/build-backend/

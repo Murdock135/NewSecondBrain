@@ -17,7 +17,7 @@ not done
 	- Football
 - Books
 ```apb
-Crime and Punishment: 218/420
+Crime and Punishment: 241/420
 Analysis I (Terence Tao): 5/550
 Abstract Algebra (Claudia Menini): 40/700
 ```
