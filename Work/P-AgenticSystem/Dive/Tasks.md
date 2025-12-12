@@ -4,7 +4,9 @@
 	- Refs:
 		- https://docs.python.org/3/library/code.html#module-code
 - [ ] #task Plan how to restructure
-- [ ] #task Use short term AWS API #planned
+- [ ] #task Set up AWS integration
+	- [ ] #task place to set region (for us it's us-east-1) (probably in config.toml)
+	- [ ] #task Set AWS PROFILE (for us it's sensd)
 - [ ] #task Run one question 5 times
 - [ ] #task set up CLI args 
 	- [ ] #task pick output location

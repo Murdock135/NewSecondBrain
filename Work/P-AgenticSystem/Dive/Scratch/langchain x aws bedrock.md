@@ -1,0 +1,1 @@
+Currently I know only how to use aws's python SDK to invoke an llm. The SDK is the boto3 library. However, langchain uses the converseapi. The converseapi does not use `profile` and `region name` as parameters but boto3 does.
