@@ -1,9 +1,6 @@
-- [x] #task Make the diagram more detailed. Depict the information the planner has access to. ✅ 2025-12-02
 - [ ] #task Include an example run in the methods section
-- [ ] #task Create a custom python repl
-	- Refs:
-		- https://docs.python.org/3/library/code.html#module-code
-- [ ] #task Plan how to restructure
+- [ ]  Restructuring
+	- [ ] #task Restructuring: Use a more robust method to set paths so that it works platform agnosticly (on windows, config should live in `%APPDATA%`)
 - [ ] #task Set up AWS integration
 	- [ ] #task place to set region (for us it's us-east-1) (probably in config.toml)
 	- [ ] #task Set AWS PROFILE (for us it's sensd)
@@ -109,3 +106,8 @@
 	- [x] LLM calls API ✅ 2025-07-29
 - [x] #task Create diagrams ✅ 2025-11-04 🔒 [[2025-11-04]] 🕸️ Tasks
 	- [x] #task Architecture ✅ 2025-11-04
+- [x] #task Make the diagram more detailed. Depict the information the planner has access to. ✅ 2025-12-02 🔒 [[2025-12-15]] 🕸️ Tasks
+- [x] #task Create a custom python repl ✅ 2025-12-15 🔒 [[2025-12-15]] 🕸️ Tasks
+	- Refs:
+		- https://docs.python.org/3/library/code.html#module-code
+- [x] #task Plan how to restructure ✅ 2025-12-15 🔒 [[2025-12-15]] 🕸️ Tasks
