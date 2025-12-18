@@ -5,9 +5,17 @@
 - [ ] #task Script to install and enable nvm
 - [ ] #task Script to disable nvm
 - [ ] #task Organize google photos
-- [x] #task Download and set font. Then set up script to download font ✅ 2025-11-01
-- [x] #task Track `config/konsave/` ✅ 2025-11-01
 - [ ] #task Create a script that automates saving into konsave with a timestamp
 - [ ] #task Set up two different alacritty profiles; one for arch, one for mac
+- [ ] #task Windows shortcuts (autohotkey)
+	- [ ] #task Everything 
+	- [ ] #task Everything for only library in onedrive
+	- [ ] #task Terminal
+	- [ ] #task Obsidian
+	- [ ] #task Zen browser
+	- [ ] #task Sioyek
 # Archived
+
 - [x] #task Set up display manager in EOS ✅ 2025-11-01 🔒 [[2025-11-01]] 🕸️ Tasks
+- [x] #task Download and set font. Then set up script to download font ✅ 2025-11-01 🔒 [[2025-12-13]] 🕸️ Tasks
+- [x] #task Track `config/konsave/` ✅ 2025-11-01 🔒 [[2025-12-13]] 🕸️ Tasks

@@ -21,6 +21,7 @@
 - [ ] #read https://packaging.python.org/en/latest/overview/
 - [ ] #read [Video on Python Internals](https://youtu.be/f8nTJp_k7U8?si=FCZ0cnSs1TVq8mw_)
 - [ ] #read [video on async programming in python by corey schafer](https://www.youtube.com/watch?v=oAkLSJNr5zY)
+- [ ] #read [video on python's ast](https://www.youtube.com/watch?v=Yq3wTWkoaYY)
 # Docker
 
 - [ ] #read [Agentic AI with docker](https://docs.docker.com/guides/agentic-ai/)

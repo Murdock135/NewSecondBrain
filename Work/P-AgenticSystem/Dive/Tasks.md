@@ -4,6 +4,13 @@
 - [ ] #task Set up AWS integration
 	- [ ] #task place to set region (for us it's us-east-1) (probably in config.toml)
 	- [ ] #task Set AWS PROFILE (for us it's sensd)
+- [ ] #task Create a custom python repl
+	- Refs:
+		- https://docs.python.org/3/library/code.html#module-code
+		- Create new branch
+		- Create new tool script `execute_code.py`
+		- Create test script
+		- After testing, use in `nodes/executor.py`
 - [ ] #task Run one question 5 times
 - [ ] #task set up CLI args 
 	- [ ] #task pick output location
