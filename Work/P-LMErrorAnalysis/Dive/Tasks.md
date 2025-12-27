@@ -1,2 +1,2 @@
-- [ ] #task Read PrimeVul docs
+- [x] #task Read PrimeVul docs ✅ 2025-12-21
 - [ ] 
