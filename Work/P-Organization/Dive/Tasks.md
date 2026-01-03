@@ -1,12 +1,9 @@
-- [ ] #task Come up with commit templates for obsidian vaults
 - [ ] #task incorporate aerospace tiling in mac
 - [ ] #task get a notebook that shows the calendar right beside the notes section
 - [ ] #task Start papis
-- [ ] #task Script to install and enable nvm
-- [ ] #task Script to disable nvm
+- [x] #task Script to install and enable nvm ✅ 2025-12-30
+- [x] #task Script to disable nvm ✅ 2025-12-30
 - [ ] #task Organize google photos
-- [ ] #task Create a script that automates saving into konsave with a timestamp
-- [ ] #task Set up two different alacritty profiles; one for arch, one for mac
 - [ ] #task Windows shortcuts (autohotkey)
 	- [ ] #task Everything 
 	- [ ] #task Everything for only library in onedrive

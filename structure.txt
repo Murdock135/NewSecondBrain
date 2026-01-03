@@ -1,0 +1,83 @@
+drwxr-xr-x@    - zayan 30 Dec 17:43 .
+drwxr-xr-x@    - zayan 13 Dec 01:19 ├── .obsidian
+drwxr-xr-x@    - zayan 17 Dec 01:50 │   ├── plugins
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── advanced-progress-bars
+drwxr-xr-x@    - zayan 25 Sep 21:16 │   │   ├── auto-folder-collapse
+drwxr-xr-x@    - zayan 17 Dec 01:50 │   │   ├── copilot
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── dataview
+drwxr-xr-x@    - zayan  7 Oct 04:40 │   │   ├── index-checker
+drwxr-xr-x@    - zayan  7 Oct 03:54 │   │   ├── obsidian-linter
+drwxr-xr-x@    - zayan  5 Nov 10:12 │   │   ├── obsidian-relative-line-numbers
+drwxr-xr-x@    - zayan 26 Sep 21:14 │   │   ├── obsidian-task-archiver
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── obsidian-tasks-plugin
+drwxr-xr-x@    - zayan 17 Oct 03:01 │   │   ├── pomobar
+drwxr-xr-x@    - zayan  7 Oct 03:59 │   │   └── todo-highlighter
+drwxr-xr-x@    - zayan 23 Sep 03:27 │   ├── themes
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── AnuPpuccin
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Border
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Encore
+drwxr-xr-x@    - zayan 23 Sep 03:27 │   │   ├── Minimal
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Obsidianite
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── 'Shimmering Focus'
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   └── Things
+.rw-r--r--@  180 zayan 30 Dec 15:31 │   ├── app.json
+.rw-r--r--@  164 zayan 30 Dec 15:31 │   ├── appearance.json
+.rw-r--r--@  347 zayan 30 Dec 15:31 │   ├── community-plugins.json
+.rw-r--r--@  697 zayan 30 Dec 15:31 │   ├── core-plugins.json
+.rw-r--r--@  924 zayan 30 Dec 15:31 │   ├── types.json
+.rw-r--r--@ 8.2k zayan 30 Dec 17:22 │   └── workspace.json
+drwxr-xr-x@    - zayan 30 Dec 17:19 ├── .scripts
+.rw-r--r--@  955 zayan 30 Dec 17:19 │   └── make_work_item.py
+drwxr-xr-x@    - zayan 17 Dec 01:56 ├── copilot
+drwxr-xr-x@    - zayan 17 Dec 01:56 │   ├── copilot-conversations
+.rw-r--r--@  394 zayan 17 Dec 01:56 │   │   └── hi@20251216_135648.md
+drwxr-xr-x@    - zayan 17 Dec 01:51 │   └── copilot-custom-prompts
+.rw-r--r--@  470 zayan 17 Dec 01:51 │       ├── Emojify.md
+.rw-r--r--@  388 zayan 17 Dec 01:51 │       ├── 'Explain like I am 5.md'
+.rw-r--r--@  350 zayan 17 Dec 01:51 │       ├── 'Fix grammar and spelling.md'
+.rw-r--r--@  353 zayan 17 Dec 01:51 │       ├── 'Generate glossary.md'
+.rw-r--r--@  357 zayan 17 Dec 01:51 │       ├── 'Generate table of contents.md'
+.rw-r--r--@  379 zayan 17 Dec 01:51 │       ├── 'Make longer.md'
+.rw-r--r--@  373 zayan 17 Dec 01:51 │       ├── 'Make shorter.md'
+.rw-r--r--@  347 zayan 17 Dec 01:51 │       ├── 'Remove URLs.md'
+.rw-r--r--@  376 zayan 17 Dec 01:51 │       ├── 'Rewrite as tweet.md'
+.rw-r--r--@  500 zayan 17 Dec 01:51 │       ├── 'Rewrite as tweet thread.md'
+.rw-r--r--@  370 zayan 17 Dec 01:51 │       ├── Simplify.md
+.rw-r--r--@  307 zayan 17 Dec 01:51 │       ├── Summarize.md
+.rw-r--r--@  369 zayan 17 Dec 01:51 │       └── 'Translate to Chinese.md'
+drwxr-xr-x@    - zayan 30 Dec 17:19 ├── Lists
+.rw-r--r--@  180 zayan 30 Dec 17:19 │   ├── Entertainment.md
+.rw-r--r--@  726 zayan 30 Dec 17:19 │   ├── Explore.md
+.rw-r--r--@  793 zayan 30 Dec 17:21 │   ├── Reading.md
+.rw-r--r--@    0 zayan 23 Sep 03:27 │   ├── Resolutions.md
+.rw-r--r--@ 1.0k zayan 30 Dec 17:19 │   ├── Scratch.md
+.rw-r--r--@ 1.2k zayan 13 Dec 01:19 │   └── TasksNext.md
+drwxr-xr-x@    - zayan 17 Dec 00:04 ├── Work
+drwxr-xr-x@    - zayan 23 Sep 03:27 │   ├── D-AIAndComputing
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Dive
+.rw-r--r--@  352 zayan 23 Sep 03:27 │   │   └── README.md
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   ├── D-HolisticDev
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Dive
+.rw-r--r--@  283 zayan 30 Dec 17:19 │   │   └── README.md
+drwxr-xr-x@    - zayan 23 Sep 03:27 │   ├── P-AgenticSystem
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Dive
+.rw-r--r--@  329 zayan  6 Oct 21:53 │   │   └── README.md
+drwxr-xr-x@    - zayan 23 Sep 03:27 │   ├── P-CombiningEvidenceInLLMs
+drwxr-xr-x@    - zayan 13 Dec 01:19 │   │   ├── Dive
+.rw-r--r--@  388 zayan 23 Sep 03:27 │   │   └── README.md
+drwxr-xr-x@    - zayan 13 Dec 01:19 │   ├── P-LinuxRice
+.rw-r--r--@    0 zayan 13 Dec 01:19 │   │   └── README.md
+drwxr-xr-x@    - zayan 13 Dec 01:19 │   ├── P-LLMsInScientificMethod
+drwxr-xr-x@    - zayan 13 Dec 01:19 │   │   ├── Dive
+.rw-r--r--@    1 zayan 13 Dec 01:19 │   │   └── Readme.md
+drwxr-xr-x@    - zayan 17 Dec 00:04 │   ├── P-LMErrorAnalysis
+drwxr-xr-x@    - zayan 30 Dec 17:19 │   │   ├── Dive
+.rw-r--r--@  207 zayan 17 Dec 00:06 │   │   └── Readme.md
+drwxr-xr-x@    - zayan 23 Sep 03:27 │   └── P-Organization
+drwxr-xr-x@    - zayan 30 Dec 17:19 │       ├── Dive
+.rw-r--r--@  262 zayan  6 Oct 21:53 │       └── README.md
+.rw-r--r--@  236 zayan 30 Dec 17:19 ├── .gitignore
+.rw-r--r--@ 2.0k zayan 30 Dec 17:19 ├── AGENTS.md
+.rw-r--r--@  921 zayan 30 Dec 17:21 ├── Dashboard.md
+.rw-r--r--@ 3.2k zayan 30 Dec 17:19 ├── README.md
+.rw-r--r--@    0 zayan 30 Dec 17:43 └── structure.txt

@@ -1,7 +1,4 @@
 - [x] #task Watch Andrej Karpathy's video on LLMs. ✅ 2025-02-17
-- [ ] #task Incorporate roadmaps for rest of the pillars.
-- [ ] #task Peruse awesome list and import things
 - [x] #task upload c book by biju to google drive ✅ 2025-09-21
-- [ ] #task Peruse your google drive library
 - [ ] #task Learn how to use github for project management
 - [ ] #task learn about using MCP
