@@ -17,9 +17,11 @@ not done
 	- Football
 - Books
 ```apb
-Crime and Punishment: 372/493
+
+Crime and Punishment: 100/100
 Analysis I (Terence Tao): 5/550
 Abstract Algebra (Claudia Menini): 40/700
+Man's Search For Meaning (Viktor Frankl): 32/138
 ```
 
 
