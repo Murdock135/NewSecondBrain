@@ -1,3 +1,6 @@
+- [ ] #task Organize
+	- [ ] #task organize emails
+	- [ ] #task organize weekly schedule
 # Archived
 
 - [x] #task Make a list of literature to read ✅ 2025-10-15 🔒 [[2025-10-15]] 🕸️ TasksNext
