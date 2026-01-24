@@ -4,7 +4,7 @@
 - [ ] #task code the AWS integration
 - [ ] #task code the ollama integration
 - [ ] #task Rewrite the system prompt
-- [ ] #task Restructure the model inputs so that we can control the amount of conflict that each model will have. For example, perhaps M1 and M2 align and together contradict with M3. 
+- [ ] #task Build a synthetic data generator that uses an LLM to create the dataset. This would allow us to control the amount of conflict that each model will have. For example, perhaps M1 and M2 align and together contradict with M3. 
 
 # Archived
 

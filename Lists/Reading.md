@@ -4,6 +4,7 @@
 - [ ] #read [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](https://arxiv.org/pdf/2408.02442)
 - [ ] #read Haykin's first chapter (46 pages--46/5 days = 10 pages/day)
 - [ ] #read [Keys, Queries and Values (D2L.ai)](https://d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html) (3 hours)
+- [ ] #read https://www.thefp.com/p/the-campaign-to-crush-free-speech?utm_source=substack&utm_medium=email
 
 # Unordered reading queue
 ```dataview

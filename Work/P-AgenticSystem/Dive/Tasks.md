@@ -1,16 +1,8 @@
 - [ ] #task Include an example run in the methods section
-- [ ]  Restructuring
-	- [ ] #task Restructuring: Use a more robust method to set paths so that it works platform agnosticly (on windows, config should live in `%APPDATA%`)
+- [ ]  #task Read Langgraph's changelog https://docs.langchain.com/oss/python/releases/changelog
 - [ ] #task Set up AWS integration
 	- [ ] #task place to set region (for us it's us-east-1) (probably in config.toml)
 	- [ ] #task Set AWS PROFILE (for us it's sensd)
-- [ ] #task Create a custom python repl
-	- Refs:
-		- https://docs.python.org/3/library/code.html#module-code
-		- Create new branch
-		- Create new tool script `execute_code.py`
-		- Create test script
-		- After testing, use in `nodes/executor.py`
 - [ ] #task Run one question 5 times
 - [ ] #task set up CLI args 
 	- [ ] #task pick output location
@@ -23,7 +15,6 @@
 	- [ ] #task Write the import tests file
 - [ ] #task fix the df summary extraction code for *census_population* data.
 - [ ] #task Learn how to pull in code from other remote branches
-- [ ] #task Restructure project
 - [ ] #task Create a formatter node that will format the final answer nicely. 
 - [ ] #task Read literature mitesh sent out
 - [ ] #task create likert scale
@@ -118,3 +109,13 @@
 	- Refs:
 		- https://docs.python.org/3/library/code.html#module-code
 - [x] #task Plan how to restructure ✅ 2025-12-15 🔒 [[2025-12-15]] 🕸️ Tasks
+- [x] Restructuring ✅ 2026-01-19 🔒 [[2026-01-19]] 🕸️ Tasks
+	- [x] #task Restructuring: Use a more robust method to set paths so that it works platform agnosticly (on windows, config should live in `%APPDATA%`) ✅ 2026-01-19
+- [x] #task Restructure project ✅ 2026-01-19 🔒 [[2026-01-19]] 🕸️ Tasks
+- [x] #task Create a custom python repl ✅ 2026-01-19 🔒 [[2026-01-19]] 🕸️ Tasks
+	- Refs:
+		- https://docs.python.org/3/library/code.html#module-code
+		- Create new branch
+		- Create new tool script `execute_code.py`
+		- Create test script
+		- After testing, use in `nodes/executor.py`

@@ -1,5 +1,6 @@
 - [x] #milestone Create the QA dataset #ongoing ✅ 2025-07-14
-- [ ] #milestone Restructure the project
+- [x] #milestone Restructure the project ✅ 2026-01-19
+- [ ] #milestone Migrate to newer langgraph
 - [ ] #milestone Implement web search tool
 - [ ] #milestone Implement RAG 
 
