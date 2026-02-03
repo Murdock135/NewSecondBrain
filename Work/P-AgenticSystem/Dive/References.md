@@ -14,3 +14,4 @@
 - [ ] https://www.thelancet.com/action/showPdf?pii=S2589-7500%2824%2900124-9
 - [ ] https://www.semanticscholar.org/reader/a1408bfa829144b16d38c48c456d014e3e00d8c9
 - [ ] https://ragaboutit.com/query-adaptive-rag-routing-complex-questions-to-multi-hop-retrieval-while-keeping-simple-queries-fast/?utm_source=tldrdata
+- [ ] https://www.cdc.gov/ncezid/dfwed/BEAM-dashboard.html
