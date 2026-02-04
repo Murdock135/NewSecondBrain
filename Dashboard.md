@@ -11,17 +11,16 @@ not done
 		2. Combining Evidence
 	- Course- [Nand2Tetris](https://www.coursera.org/learn/build-a-computer/home/module/1)
 		- Next Lesson- Unit 1.4: Hardware Description Language
-	- Course- Principles of Programming Languages
-- Sports
-	- Tennis
-	- Football
+- Athletics
+	- Basic workout (3 d/w)
+	- Football (2 d/w)
 - Books
 ```apb
 
 Crime and Punishment: 100/100
 Analysis I (Terence Tao): 5/550
 Abstract Algebra (Claudia Menini): 40/700
-Man's Search For Meaning (Viktor Frankl): 32/138
+Man's Search For Meaning (Viktor Frankl): 67/138
 ```
 
 

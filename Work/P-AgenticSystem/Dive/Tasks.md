@@ -122,3 +122,6 @@
 		- Create new tool script `execute_code.py`
 		- Create test script
 		- After testing, use in `nodes/executor.py`
+- [x] #task Make an AGENTS.md file ✅ 2026-02-03 🔒 [[2026-02-03]] 🕸️ Tasks
+	- [x] #task Read Karpathy's tweet #next ✅ 2026-02-03
+	- [x] #task Read claude code author's tweet #next ✅ 2026-02-03

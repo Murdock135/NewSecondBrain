@@ -1,4 +1,7 @@
-# Archived
+```tasks
+```
+# Arch
+ived
 
 - [x] #task Make a list of literature to read ✅ 2025-10-15 🔒 [[2025-10-15]] 🕸️ TasksNext
 - [x] #task Set this week's calendar and tasks ✅ 2025-10-15 🔒 [[2025-10-15]] 🕸️ TasksNext
