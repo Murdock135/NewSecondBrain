@@ -2,3 +2,4 @@
 	- for example, using chatgpt to summarize the full API reference of a programming framework or a book.
 	- creating cheatsheets after studying.
 	- creating notes using chatgpt.
+	

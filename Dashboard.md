@@ -28,7 +28,7 @@ Man's Search For Meaning (Viktor Frankl): 67/138
 # Lists
 [[Lists/Reading|Reading]]
 [[Resolutions]]
-[[Explore]]
+[[Lists/Explore]]
 [[Entertainment]]
 # Projects
 
