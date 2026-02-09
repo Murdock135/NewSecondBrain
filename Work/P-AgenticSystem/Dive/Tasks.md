@@ -1,6 +1,5 @@
 - [ ] #task Include an example run in the methods section
 - [ ] #task Feature: Handle graphics/file operations when agent uses python_repl_tool
-- [ ] #task Fix: If the code wants to import multiple *uninstalled packages*, it doesn't work because of the current implementation. Fix this.
 - [ ] #task Feat: Add resource limit to child process
 - [ ]  #task Read Langgraph's changelog https://docs.langchain.com/oss/python/releases/changelog
 - [ ] #task Set up AWS integration
@@ -125,3 +124,5 @@
 - [x] #task Make an AGENTS.md file ✅ 2026-02-03 🔒 [[2026-02-03]] 🕸️ Tasks
 	- [x] #task Read Karpathy's tweet #next ✅ 2026-02-03
 	- [x] #task Read claude code author's tweet #next ✅ 2026-02-03
+- [x] #task fix USER_CONFIG_DIR in macos. Settings will use this to determine location for `.env` ✅ 2026-02-09 🔒 [[2026-02-09]] 🕸️ Tasks
+- [x] #task Fix: If the code wants to import multiple *uninstalled packages*, it doesn't work because of the current implementation. Fix this. ✅ 2026-02-09 🔒 [[2026-02-09]] 🕸️ Tasks
