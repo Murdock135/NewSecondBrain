@@ -18,9 +18,9 @@ not done
 ```apb
 
 Crime and Punishment: 100/100
-Analysis I (Terence Tao): 5/550
+Analysis I (Terence Tao): 0/550
 Abstract Algebra (Claudia Menini): 40/700
-Man's Search For Meaning (Viktor Frankl): 67/138
+Man's Search For Meaning (Viktor Frankl): 93/138
 ```
 
 
