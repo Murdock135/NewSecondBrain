@@ -2,3 +2,4 @@
 - [x] #task upload c book by biju to google drive ✅ 2025-09-21
 - [ ] #task Learn how to use github for project management
 - [ ] #task learn about using MCP
+- [ ] #task Beej's c book: Pointers #next
