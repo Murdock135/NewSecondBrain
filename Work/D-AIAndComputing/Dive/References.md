@@ -4,6 +4,7 @@
 - [ ] #book Computational intelligence (Rudolf Kruse)
 - [ ] #book On Neural Differential Equations
 - [ ] #course [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+- [ ] #docs [Nvidia's course catalog on AI](https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web)
 # Programming
 - [ ] #book Art of computer Programming
 - [ ] #docs Bash [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
