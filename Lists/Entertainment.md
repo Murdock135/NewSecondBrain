@@ -7,4 +7,8 @@
 	- [ ] Midnight manager
 	- [ ] Hellbound #korean 
 - Anime
-- 
+- Game
+	- Silent Hill 2
+	- Last of 2
+	- Ghost of Tsushima
+	- Baldur's gate 3
