@@ -9,8 +9,10 @@ not done
 	- Research on LLMs: (1) 
 		1. Agentic System for pathogen analysis
 		2. Combining Evidence
+		3. Code diff analysis
 	- Course- [Nand2Tetris](https://www.coursera.org/learn/build-a-computer/home/module/1)
 		- Next Lesson- Unit 1.4: Hardware Description Language
+	- Course- Computer Networks
 - Athletics
 	- Basic workout (3 d/w)
 	- Football (2 d/w)
@@ -18,9 +20,9 @@ not done
 ```apb
 
 Crime and Punishment: 100/100
-Analysis I (Terence Tao): 0/550
-Abstract Algebra (Claudia Menini): 40/700
-Man's Search For Meaning (Viktor Frankl): 93/138
+Analysis I (Terence Tao): 12/550
+Man's Search For Meaning (Viktor Frankl): 120/138
+Stylish Academic Writing (Helen Sword): 8/182
 ```
 
 
