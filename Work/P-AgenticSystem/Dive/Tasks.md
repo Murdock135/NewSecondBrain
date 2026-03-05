@@ -1,9 +1,11 @@
 - [ ] #task Include an example run in the methods section
+- [ ] #task Fix Dockerfile and bash script that runs docker
+- [ ]  #task Create a .env.example so that the example code doesn't have to be hardcoded in `settings.py`
 - [ ] #task Feat: Add resource limit to child process
 - [ ]  #task Read Langgraph's changelog https://docs.langchain.com/oss/python/releases/changelog
 - [ ] #task Set up AWS integration
-	- [ ] #task place to set region (for us it's us-east-1) (probably in config.toml)
-	- [ ] #task Set AWS PROFILE (for us it's sensd)
+	- [x] #task place to set region (for us it's us-east-1) (probably in config.toml) ✅ 2026-03-02
+	- [x] #task Set AWS PROFILE (for us it's sensd) ✅ 2026-03-02
 - [ ] #task Run one question 5 times
 - [ ] #task set up CLI args 
 	- [ ] #task pick output location

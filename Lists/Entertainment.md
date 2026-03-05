@@ -7,6 +7,8 @@
 	- [ ] Midnight manager
 	- [ ] Hellbound #korean 
 - Anime
+	- re zero
+	- Neon Genesis: Evangelion
 - Game
 	- Silent Hill 2
 	- Last of 2

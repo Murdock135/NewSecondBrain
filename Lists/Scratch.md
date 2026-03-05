@@ -16,3 +16,7 @@ Roadmap:
 - [ ] [python importing techniques and shadowing](https://www.youtube.com/watch?v=eYTXC3lQyqc)
 - [ ] [The packaging gradient](https://youtu.be/iLVNWfPWAC8?si=Msc6WFZ_OF8en0Hs)
 - [ ] https://docs.astral.sh/uv/concepts/build-backend/
+
+# Random Concepts
+- [ ] [Article on Mutual Information](https://medium.com/swlh/a-deep-conceptual-guide-to-mutual-information-a5021031fad0)
+- [ ] 
