@@ -1,3 +1,4 @@
+- [ ] #task Create a bedrock utility function to list available models
 - [ ] #task Include an example run in the methods section
 - [ ] #task Fix Dockerfile and bash script that runs docker
 - [ ]  #task Create a .env.example so that the example code doesn't have to be hardcoded in `settings.py`

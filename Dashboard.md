@@ -28,10 +28,8 @@ Stylish Academic Writing (Helen Sword): 8/182
 
 ---
 # Lists
-[[Lists/Reading|Reading]]
-[[Resolutions]]
-[[Lists/Explore]]
-[[Entertainment]]
+![[Untitled 1.base]]
+
 # Projects
 
 ```dataview
@@ -50,4 +48,5 @@ where contains(tags, "#milestone") and !completed
 # All tasks
 ```tasks
 not done
+tag includes #task
 ```

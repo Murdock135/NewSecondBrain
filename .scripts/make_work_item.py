@@ -22,7 +22,7 @@ def make_work_item(name):
             f.write(" ")
 
     # Make the Readme.md file
-    with open(root / "Work" / name / "Readme.md", "w") as f:
+    with open(root / "Work" / name / "README.md", "w") as f:
         f.write(" ")
 
 if __name__ == "__main__":

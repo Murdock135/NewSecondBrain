@@ -1,3 +1,8 @@
+```tasks
+tag includes #task 
+tag includes #next
+not done
+```
 # Archived
 
 - [x] #task Make a list of literature to read ✅ 2025-10-15 🔒 [[2025-10-15]] 🕸️ TasksNext
