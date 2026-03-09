@@ -1,0 +1,6 @@
+- [x] #task Read PrimeVul docs ✅ 2025-12-21
+- [ ] #task 
+- [ ] #task Create an `experiments/` dir
+	- [ ] #task Add an `experiments` or `config` module that helps configure experiments
+	- [ ] #task Create `config.toml.example`
+	- [ ] #task Import configs into dag learning script.
