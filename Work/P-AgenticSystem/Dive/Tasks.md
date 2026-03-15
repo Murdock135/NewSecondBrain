@@ -1,43 +1,90 @@
-- [ ] #task Create a bedrock utility function to list available models
-- [ ] #task Include an example run in the methods section
-- [ ] #task Fix Dockerfile and bash script that runs docker
-- [ ]  #task Create a .env.example so that the example code doesn't have to be hardcoded in `settings.py`
-- [ ] #task Feat: Add resource limit to child process
-- [ ]  #task Read Langgraph's changelog https://docs.langchain.com/oss/python/releases/changelog
-- [ ] #task Set up AWS integration
-	- [x] #task place to set region (for us it's us-east-1) (probably in config.toml) ✅ 2026-03-02
-	- [x] #task Set AWS PROFILE (for us it's sensd) ✅ 2026-03-02
+# 🚀 Project SPARQ Task List
+
+## 🏗️ Infrastructure & DevOps
+- [ ] #task Fix **Dockerfile** and bash script that runs docker
+- [ ] #task Create a `.env.example` so that example code doesn't have to be hardcoded in `settings.py`
+- [ ] #task **Feat:** Add resource limit to child process
+- [ ] #task Set up logging with **Hydra** (and perhaps **structlog**) [Recommended code](https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd)
+- [ ] #task Set up **AWS integration**
+    - [x] #task Place to set region (us-east-1 in `config.toml`) ✅ 2026-03-02
+    - [x] #task Set `AWS_PROFILE` (sensd) ✅ 2026-03-02
+
+## 🤖 Model & Provider Logic
+- [ ] #task Every time **SPARQ** runs, get list of bedrock models and cache it. If list updates, replace old list with newer one.
+- [ ] #task Change how namespace is handled. Currently the namespace gradually accumulates over time. Use the following approach
+```
+  _execute_code_in_new_process():
+    parse AST, handle syntax errors
+
+    write new_namespace to temp file (ns_file)
+    create empty result file path (result_file)
+
+    spawn process with args: (statements, expr, ns_file, result_file, modules, timeout)
+    process.join(timeout)
+
+    if process still alive:
+        terminate → return TimeoutError
+
+    read result from result_file
+    if file missing → return QueueEmptyError
+
+    cleanup temp files
+    update persistent namespace if needed
+    return result
+
+
+_target(statements, expr, ns_file, result_file, modules, timeout):
+    load namespace from ns_file
+
+    re-import modules into namespace
+    exec/eval code, capture stdout/stderr
+    pickle_vars, get_modules_in_namespace
+    build OutputSchema
+
+    write result to result_file
+```
+
+
+- [x] #task In the executor node, remove the checkpointer and manually append conversation state. This will ✅ 2026-03-10
+- [x] #task Remove timeout option from python_repl_tool. Set it to 1000s by default ✅ 2026-03-10
+- [ ] #task Build **guardrails** - OpenAI moderation API
+- [ ] #task Set up **CLI args**
+    - [ ] #task Pick output location
+    - [ ] #task Pick LLM provider and model
+    - [ ] #task Make verbose or not
+
+## 🛠️ Tool Integration & Agents
+- [ ] #task Create a **formatter node** that will format the final answer nicely
+- [ ] #task Implement **qa streaming** [Reference](https://js.langchain.com/docs/how_to/qa_streaming/)
+- [ ] #task Create the **weather calling tool**
+- [ ] #task **Integrate tools**
+    - [ ] #task e2b
+    - [x] #task filesystem ✅ 2025-06-13
+    - [ ] #task Human as a tool
+    - [ ] #task oracleai vector search [Reference](https://python.langchain.com/docs/integrations/tools/oracleai/)
+    - [ ] #task pubmed
+    - [x] #task python REPL ✅ 2025-06-13
+    - [ ] #task semantic scholar
+    - [ ] #task wikipedia
+
+## 📊 Data & Testing
+- [ ] #task **Import tests**
+    - [ ] #task Learn to use **Ruff** and `pkgutils`
+    - [ ] #task Write the import tests file
 - [ ] #task Run one question 5 times
-- [ ] #task set up CLI args 
-	- [ ] #task pick output location
-	- [ ] #task pick LLM provider and model
-	- [ ] #task make verbose or not
-- [ ] #task Build guardrails- openai moderation api
-- [ ] #task set up logging with hydra (and perhaps structlog). recommended code: https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd
-- [ ] #task Set up import tests
-	- [ ] #task Learn To use Ruff and pkgutils
-	- [ ] #task Write the import tests file
-- [ ] #task fix the df summary extraction code for *census_population* data.
+- [ ] #task Fix the `df` summary extraction code for `census_population` data
+- [ ] #task Create a script to extract raw **poultry sampling data**
+- [ ] #task Create a **likert scale**
+
+## 📖 Research & Documentation
+- [ ] #task Read **Langgraph's changelog** [Link](https://docs.langchain.com/oss/python/releases/changelog)
+- [ ] #task Read [Techniques for monitoring LLMs on AWS](https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/)
+- [ ] #task Read literature Mitesh sent out
+- [ ] #task Listen to recording of meeting with **Dr. A.**
 - [ ] #task Learn how to pull in code from other remote branches
-- [ ] #task Create a formatter node that will format the final answer nicely. 
-- [ ] #task Read literature mitesh sent out
-- [ ] #task create likert scale
-- [ ] #task listen to recording of meeting with Dr. A.
-- [ ] #task Create the weather calling tool
-- [ ] #task Read https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/
-- [ ] #task Create a doc with issues/requests/ramblings #planned
-- [ ] #task Integrate tools
-	- [ ] #task e2b
-	- [x] #task filesystem ✅ 2025-06-13
-	- [ ] #task Human as a tool
-	- [ ] #task oracleai vector search https://python.langchain.com/docs/integrations/tools/oracleai/
-	- [ ] #task pubmed
-	- [x] #task python REPL ✅ 2025-06-13
-	- [ ] #task semantic scholar
-	- [ ] #task wikipedia
-- [ ] #task implement qa streaming https://js.langchain.com/docs/how_to/qa_streaming/
-- [ ] #task create a script to extract raw poultry sampling data
-- [ ] #task Write READMEs for the datasets on huggingface. #discuss
+- [ ] #task Include an **example run** in the methods section
+- [ ] #task Write **READMEs** for the datasets on HuggingFace #discuss
+- [ ] #task Create a doc with **issues/requests/ramblings** #planned
 
 # Archived
 
