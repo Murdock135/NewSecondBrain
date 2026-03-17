@@ -1,5 +1,8 @@
 This is where ad-hoc tasks and roadmaps live
 
+# Pickling python variables
+1. https://docs.python.org/3/library/pickle.html#examples
+2. https://docs.python.org/3/library/tempfile.html
 # Writing good code for building an agentic library
 Roadmap:
 1. [HTTP crash course (Traversy media)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)

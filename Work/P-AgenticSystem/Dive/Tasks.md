@@ -6,71 +6,37 @@
 - [ ] #task **Feat:** Add resource limit to child process
 - [ ] #task Set up logging with **Hydra** (and perhaps **structlog**) [Recommended code](https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd)
 - [ ] #task Set up **AWS integration**
-    - [x] #task Place to set region (us-east-1 in `config.toml`) ✅ 2026-03-02
-    - [x] #task Set `AWS_PROFILE` (sensd) ✅ 2026-03-02
+	- [x] #task Place to set region (us-east-1 in `config.toml`) ✅ 2026-03-02
+		- [x] #task Set `AWS_PROFILE` (sensd) ✅ 2026-03-02
 
 ## 🤖 Model & Provider Logic
 - [ ] #task Every time **SPARQ** runs, get list of bedrock models and cache it. If list updates, replace old list with newer one.
-- [ ] #task Change how namespace is handled. Currently the namespace gradually accumulates over time. Use the following approach
-```
-  _execute_code_in_new_process():
-    parse AST, handle syntax errors
+- [ ] #task Use df_summaries_short in planner and executor system prompt
 
-    write new_namespace to temp file (ns_file)
-    create empty result file path (result_file)
-
-    spawn process with args: (statements, expr, ns_file, result_file, modules, timeout)
-    process.join(timeout)
-
-    if process still alive:
-        terminate → return TimeoutError
-
-    read result from result_file
-    if file missing → return QueueEmptyError
-
-    cleanup temp files
-    update persistent namespace if needed
-    return result
-
-
-_target(statements, expr, ns_file, result_file, modules, timeout):
-    load namespace from ns_file
-
-    re-import modules into namespace
-    exec/eval code, capture stdout/stderr
-    pickle_vars, get_modules_in_namespace
-    build OutputSchema
-
-    write result to result_file
-```
-
-
-- [x] #task In the executor node, remove the checkpointer and manually append conversation state. This will ✅ 2026-03-10
-- [x] #task Remove timeout option from python_repl_tool. Set it to 1000s by default ✅ 2026-03-10
 - [ ] #task Build **guardrails** - OpenAI moderation API
 - [ ] #task Set up **CLI args**
-    - [ ] #task Pick output location
-    - [ ] #task Pick LLM provider and model
-    - [ ] #task Make verbose or not
+	- [ ] #task Pick output location
+		- [ ] #task Pick LLM provider and model
+			- [ ] #task Make verbose or not
 
 ## 🛠️ Tool Integration & Agents
 - [ ] #task Create a **formatter node** that will format the final answer nicely
 - [ ] #task Implement **qa streaming** [Reference](https://js.langchain.com/docs/how_to/qa_streaming/)
 - [ ] #task Create the **weather calling tool**
 - [ ] #task **Integrate tools**
-    - [ ] #task e2b
-    - [x] #task filesystem ✅ 2025-06-13
-    - [ ] #task Human as a tool
-    - [ ] #task oracleai vector search [Reference](https://python.langchain.com/docs/integrations/tools/oracleai/)
-    - [ ] #task pubmed
-    - [x] #task python REPL ✅ 2025-06-13
-    - [ ] #task semantic scholar
-    - [ ] #task wikipedia
+	- [ ] #task e2b
+		- [x] #task filesystem ✅ 2025-06-13
+			- [ ] #task Human as a tool
+				- [ ] #task oracleai vector search [Reference](https://python.langchain.com/docs/integrations/tools/oracleai/)
+				- [ ] #task pubmed
+				- [x] #task python REPL ✅ 2025-06-13
+				- [ ] #task semantic scholar
+				- [ ] #task wikipedia
 
 ## 📊 Data & Testing
 - [ ] #task **Import tests**
-    - [ ] #task Learn to use **Ruff** and `pkgutils`
-    - [ ] #task Write the import tests file
+	- [ ] #task Learn to use **Ruff** and `pkgutils`
+		- [ ] #task Write the import tests file
 - [ ] #task Run one question 5 times
 - [ ] #task Fix the `df` summary extraction code for `census_population` data
 - [ ] #task Create a script to extract raw **poultry sampling data**
@@ -176,3 +142,8 @@ _target(statements, expr, ns_file, result_file, modules, timeout):
 - [x] #task fix USER_CONFIG_DIR in macos. Settings will use this to determine location for `.env` ✅ 2026-02-09 🔒 [[2026-02-09]] 🕸️ Tasks
 - [x] #task Fix: If the code wants to import multiple *uninstalled packages*, it doesn't work because of the current implementation. Fix this. ✅ 2026-02-09 🔒 [[2026-02-09]] 🕸️ Tasks
 - [x] #task Feature: Handle graphics/file operations when agent uses python_repl_tool ✅ 2026-02-09 🔒 [[2026-02-10]] 🕸️ Tasks
+- [x] #task In the executor node, remove the checkpointer and manually append conversation state. This will ✅ 2026-03-10 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
+- [x] #task Remove timeout option from python_repl_tool. Set it to 1000s by default ✅ 2026-03-10 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
+- [x] #task Change how namespace is handled. Currently the namespace gradually accumulates over time. Use the following approach ✅ 2026-03-17 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
+- [x] #task Write test for new namespace handling logic ✅ 2026-03-17 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
+- [x] #task Read and understand namespace handling approach (3 hours ish) ✅ 2026-03-17 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic

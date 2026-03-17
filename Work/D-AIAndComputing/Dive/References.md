@@ -17,6 +17,7 @@
 - [ ] #docs https://docs.python.org/3/reference/
 - [ ] #course [Series of Courses on C using linux](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
 - [ ] #course #course [Boot.dev course- From TCP to HTTPS (4 hours)](https://www.youtube.com/watch?v=FknTw9bJsXM&list=PLw1W1TeNPmy5psU4VrWYVu3j1frw30m9I&index=15&t=4023s)
+- [ ] #course [Performance aware programming](https://www.computerenhance.com/p/table-of-contents)
 # Computer Science
 - [ ] #book Computer Systems: A Programmer's Perspective
 - [ ] #book Modern Operating Systems by Tanenbaum
