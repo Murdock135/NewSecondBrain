@@ -1,5 +1,5 @@
 ---
-name: Agentic system
+name: SPARQ
 kind:
   - Project
 type:
