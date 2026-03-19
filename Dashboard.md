@@ -20,9 +20,8 @@ not done
 - Books
 ```apb
 
-Crime and Punishment: 100/100
 Analysis I (Terence Tao): 12/550
-Man's Search For Meaning (Viktor Frankl): 120/138
+Man's Search For Meaning (Viktor Frankl): 127/138
 Stylish Academic Writing (Helen Sword): 8/182
 Hands-on Large Language Models (Jay Alamar): 16/425
 ```

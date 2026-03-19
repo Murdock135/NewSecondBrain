@@ -2,6 +2,7 @@
 
 ## 🏗️ Infrastructure & DevOps
 - [ ] #task Fix **Dockerfile** and bash script that runs docker
+- [ ] #task Recursive building of config.toml (project root config -> user provided config)
 - [ ] #task Create a `.env.example` so that example code doesn't have to be hardcoded in `settings.py`
 - [ ] #task **Feat:** Add resource limit to child process
 - [ ] #task Set up logging with **Hydra** (and perhaps **structlog**) [Recommended code](https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd)
@@ -11,13 +12,18 @@
 
 ## 🤖 Model & Provider Logic
 - [ ] #task Every time **SPARQ** runs, get list of bedrock models and cache it. If list updates, replace old list with newer one.
+- [ ] #task Use planner's other fields in executor's system prompt as well.
 - [ ] #task Use df_summaries_short in planner and executor system prompt
-
+	- Refactor list
+	- [ ] system prompts
+	- [ ] planner node module
+	- [ ] executor node module
+	- [ ] path to data summaries in `config.toml`
 - [ ] #task Build **guardrails** - OpenAI moderation API
 - [ ] #task Set up **CLI args**
 	- [ ] #task Pick output location
-		- [ ] #task Pick LLM provider and model
-			- [ ] #task Make verbose or not
+	- [ ] #task Pick LLM provider and model
+	- [ ] #task Make verbose or not
 
 ## 🛠️ Tool Integration & Agents
 - [ ] #task Create a **formatter node** that will format the final answer nicely
