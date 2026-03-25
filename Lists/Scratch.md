@@ -22,4 +22,4 @@ Roadmap:
 
 # Random Concepts
 - [ ] [Article on Mutual Information](https://medium.com/swlh/a-deep-conceptual-guide-to-mutual-information-a5021031fad0)
-- [ ] 
+- [ ] https://instructor.neuroai.neuromatch.io/tutorials/W2D1_Macrocircuits/instructor/W2D1_Tutorial1.html

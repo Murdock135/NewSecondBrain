@@ -67,3 +67,4 @@
 ## Misc
 1. [Springer graduate texts in math series](https://link.springer.com/series/0136)
 2. [Springer mathematics study resources](https://link.springer.com/series/16797)
+3. [A very good compilation of courses, books, etc in CS](https://csdiy.wiki/en/)
