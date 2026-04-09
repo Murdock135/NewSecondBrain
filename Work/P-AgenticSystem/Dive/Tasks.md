@@ -58,6 +58,9 @@
 - [ ] #task Write **READMEs** for the datasets on HuggingFace #discuss
 - [ ] #task Create a doc with **issues/requests/ramblings** #planned
 
+# Comments
+1) Public/general knowledge, 2) Scientist/epidemiology/government, 3) Outreach to populations (extension, community health workers), 4) from poultry industry
+
 # Archived
 
 - [x] #task use an if name == main #planned ✅ 2025-03-19 🔒 [[2025-06-20]] 🕸️ tasks
