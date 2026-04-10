@@ -20,8 +20,8 @@ not done
 
 Analysis I (Terence Tao): 12/550
 Man's Search For Meaning (Viktor Frankl): 138/138
-Stylish Academic Writing (Helen Sword): 15/182
-Brave New World (Aldous Huxley): 27/258
+Stylish Academic Writing (Helen Sword): 27/182
+Brave New World (Aldous Huxley): 44/258
 Hands-on Large Language Models (Jay Alamar): 16/425
 ```
 

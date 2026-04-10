@@ -51,6 +51,8 @@ Note: This is list is ever-growing.
 20. SVM
 21. Eigen decomposition
 22. [RLHF](https://huggingface.co/blog/rlhf) #read
+23. Diffusion Models
+24. Bayesian Network
 
 # Archived
 
