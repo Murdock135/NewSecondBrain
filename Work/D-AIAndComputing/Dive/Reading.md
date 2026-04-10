@@ -16,6 +16,10 @@
 - [ ] https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-tracing #read
 - [ ] [How to contribute to open source](https://www.youtube.com/watch?v=CML6vfKjQss) #read
 - [ ] [Explanation of Chomsky's paper](https://web.mit.edu/6.441/spring06/projects/1/aak@mit.edu.1.pdf)
+- [ ] [On initializing transformers with pre-training embeddings](https://arxiv.org/pdf/2407.12514)
+## Natural Language Processing
+### Representation
+1. Seminal Paper on Tokenization: [Neural Machine Translation of rare words and subword units](https://arxiv.org/abs/1508.07909)
 # Python
 - [ ] #read https://peps.python.org/pep-3147/#flow-chart 
 - [ ] #read https://packaging.python.org/en/latest/overview/
