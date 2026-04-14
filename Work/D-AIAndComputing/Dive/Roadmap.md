@@ -1,8 +1,8 @@
 # Phase 1: Computer Science Fundamentals
-- Computer organization and architecture: https://www.nand2tetris.org/
+- Operating Systems
+- Computer organization and architecture
 - Assembly: [Assembly on x86](https://www.youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)
 - C: [C wikibook](https://en.wikibooks.org/wiki/C_Programming)
-- Java: https://dev.java/learn/
 - Systems programming: 
 - Do these at any time: 
 	- [Build a 65c02-based computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=P5kDVm81F_Sl0Ey7)
@@ -26,8 +26,9 @@ ___
 - ~~Docker~~
 # Phase 3: Math part 1 + AI part 2
 - Linear Algebra (howard anton)
-- Analysis (william wade)
-- Abstract algebra (Comprehensive treatment)
+- Analysis I(T. Tao)
+- Analaysis II (T.Tao)
+- Abstract Algebra
 - Read all [papers from D2L.ai](https://d2l.ai/chapter_references/zreferences.html)
 # Continuous learning
 - Kernel dev

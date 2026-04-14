@@ -17,6 +17,10 @@
 - [ ] [How to contribute to open source](https://www.youtube.com/watch?v=CML6vfKjQss) #read
 - [ ] [Explanation of Chomsky's paper](https://web.mit.edu/6.441/spring06/projects/1/aak@mit.edu.1.pdf)
 - [ ] [On initializing transformers with pre-training embeddings](https://arxiv.org/pdf/2407.12514)
+- [ ] [SAEs find highly interpretable features in LMs](https://arxiv.org/pdf/2309.08600)
+- [ ] [A primer on inner workings of language models](https://arxiv.org/pdf/2405.00208)
+- [ ]  [Neural Computers](https://arxiv.org/pdf/2604.06425)
+- [ ]  [Survey on SAEs interpreting LMs](https://arxiv.org/pdf/2503.05613) 
 ## Natural Language Processing
 ### Representation
 1. Seminal Paper on Tokenization: [Neural Machine Translation of rare words and subword units](https://arxiv.org/abs/1508.07909)

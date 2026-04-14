@@ -27,9 +27,6 @@ Hands-on Large Language Models (Jay Alamar): 16/425
 
 
 ---
-# Lists
-![[Untitled 1.base]]
-
 # Projects
 
 ```dataview

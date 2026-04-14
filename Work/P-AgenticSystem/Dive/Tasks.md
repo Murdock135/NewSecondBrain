@@ -6,7 +6,7 @@
 - [ ] #task Create a `.env.example` so that example code doesn't have to be hardcoded in `settings.py`
 - [ ] #task **Feat:** Add resource limit to child process
 - [ ] #task Set up logging with **Hydra** (and perhaps **structlog**) [Recommended code](https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd)
-- [ ] #task Set up **AWS integration**
+- [x] #task Set up **AWS integration** ✅ 2026-04-14
 	- [x] #task Place to set region (us-east-1 in `config.toml`) ✅ 2026-03-02
 		- [x] #task Set `AWS_PROFILE` (sensd) ✅ 2026-03-02
 
@@ -53,10 +53,10 @@
 - [ ] #task Read [Techniques for monitoring LLMs on AWS](https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/)
 - [ ] #task Read literature Mitesh sent out
 - [ ] #task Listen to recording of meeting with **Dr. A.**
-- [ ] #task Learn how to pull in code from other remote branches
 - [ ] #task Include an **example run** in the methods section
 - [ ] #task Write **READMEs** for the datasets on HuggingFace #discuss
 - [ ] #task Create a doc with **issues/requests/ramblings** #planned
+- [ ] #task Create a timeline for the Book Chapter #next
 
 # Comments
 1) Public/general knowledge, 2) Scientist/epidemiology/government, 3) Outreach to populations (extension, community health workers), 4) from poultry industry
