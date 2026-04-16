@@ -56,7 +56,7 @@
 - [ ] #task Include an **example run** in the methods section
 - [ ] #task Write **READMEs** for the datasets on HuggingFace #discuss
 - [ ] #task Create a doc with **issues/requests/ramblings** #planned
-- [ ] #task Create a timeline for the Book Chapter #next
+- [x] #task Create a timeline for the Book Chapter #next ✅ 2026-04-15
 
 # Comments
 1) Public/general knowledge, 2) Scientist/epidemiology/government, 3) Outreach to populations (extension, community health workers), 4) from poultry industry

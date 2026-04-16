@@ -1,8 +1,5 @@
 # Your Next Tasks
-```tasks
-path includes Lists/TasksNext.md
-not done
-```
+Go to [[TasksNext]]
 
 # Ongoing Projects
 - Academic
