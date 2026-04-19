@@ -1,0 +1,2 @@
+- [ ] #task write a cursory proposal essay
+- [ ] #task Create a timeline in the calendar
