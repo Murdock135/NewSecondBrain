@@ -24,6 +24,7 @@
 	- [ ] #task Pick output location
 	- [ ] #task Pick LLM provider and model
 	- [ ] #task Make verbose or not
+- [ ] #task Parallelize the different approaches 'linear regressor' , 'non-linear regressor'
 
 ## 🛠️ Tool Integration & Agents
 - [ ] #task Create a **formatter node** that will format the final answer nicely
