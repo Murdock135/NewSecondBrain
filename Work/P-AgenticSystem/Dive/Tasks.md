@@ -29,12 +29,11 @@
 ## 🛠️ Tool Integration & Agents
 - [ ] #task Create a **formatter node** that will format the final answer nicely
 - [ ] #task Implement **qa streaming** [Reference](https://js.langchain.com/docs/how_to/qa_streaming/)
+- [ ] #task Implement a scalable code watcher that will check if LLM is trying to use legal code. For example a watcher for plotting code.
 - [ ] #task Create the **weather calling tool**
 - [ ] #task **Integrate tools**
-	- [ ] #task e2b
 		- [x] #task filesystem ✅ 2025-06-13
 			- [ ] #task Human as a tool
-				- [ ] #task oracleai vector search [Reference](https://python.langchain.com/docs/integrations/tools/oracleai/)
 				- [ ] #task pubmed
 				- [x] #task python REPL ✅ 2025-06-13
 				- [ ] #task semantic scholar
