@@ -52,6 +52,7 @@
 - [ ] #task Read **Langgraph's changelog** [Link](https://docs.langchain.com/oss/python/releases/changelog)
 - [ ] #task Read [Techniques for monitoring LLMs on AWS](https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/)
 - [ ] #task Read literature Mitesh sent out
+- [ ] #read [Think aloud protocol book](https://pure.uva.nl/ws/files/716505/149552_Think_aloud_method.pdf)
 - [ ] #task Listen to recording of meeting with **Dr. A.**
 - [ ] #task Include an **example run** in the methods section
 - [ ] #task Write **READMEs** for the datasets on HuggingFace #discuss
