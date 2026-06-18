@@ -28,6 +28,7 @@
 ## Natural Language Processing
 ### Representation
 1. Seminal Paper on Tokenization: [Neural Machine Translation of rare words and subword units](https://arxiv.org/abs/1508.07909)
+2. [Introduction to transformers: An NLP perspective](https://arxiv.org/abs/2311.17633)
 # Python
 - [ ] #read https://peps.python.org/pep-3147/#flow-chart 
 - [ ] #read https://packaging.python.org/en/latest/overview/

@@ -1,24 +1,14 @@
 # 🚀 Project SPARQ Task List
 
+# Architectural changes
+- [ ] #task Incorporate HITL on planning
+
 ## 🏗️ Infrastructure & DevOps
 - [ ] #task Fix **Dockerfile** and bash script that runs docker
-- [ ] #task Recursive building of config.toml (project root config -> user provided config)
-- [ ] #task Create a `.env.example` so that example code doesn't have to be hardcoded in `settings.py`
-- [ ] #task **Feat:** Add resource limit to child process
-- [ ] #task Set up logging with **Hydra** (and perhaps **structlog**) [Recommended code](https://claude.ai/share/9565fd2c-0874-4e2c-92f2-95ee1e57d1dd)
-- [x] #task Set up **AWS integration** ✅ 2026-04-14
-	- [x] #task Place to set region (us-east-1 in `config.toml`) ✅ 2026-03-02
-		- [x] #task Set `AWS_PROFILE` (sensd) ✅ 2026-03-02
 
 ## 🤖 Model & Provider Logic
 - [ ] #task Every time **SPARQ** runs, get list of bedrock models and cache it. If list updates, replace old list with newer one.
 - [ ] #task Use planner's other fields in executor's system prompt as well.
-- [ ] #task Use df_summaries_short in planner and executor system prompt
-	- Refactor list
-	- [ ] system prompts
-	- [ ] planner node module
-	- [ ] executor node module
-	- [ ] path to data summaries in `config.toml`
 - [ ] #task Build **guardrails** - OpenAI moderation API
 - [ ] #task Set up **CLI args**
 	- [ ] #task Pick output location
@@ -27,14 +17,12 @@
 - [ ] #task Parallelize the different approaches 'linear regressor' , 'non-linear regressor'
 
 ## 🛠️ Tool Integration & Agents
-- [ ] #task Create a **formatter node** that will format the final answer nicely
-- [ ] #task Implement **qa streaming** [Reference](https://js.langchain.com/docs/how_to/qa_streaming/)
-- [ ] #task Implement a scalable code watcher that will check if LLM is trying to use legal code. For example a watcher for plotting code.
+- [ ] #task Create a **writer node** that will write the final answer nicely
 - [ ] #task Create the **weather calling tool**
 - [ ] #task **Integrate tools**
-		- [x] #task filesystem ✅ 2025-06-13
-			- [ ] #task Human as a tool
-				- [ ] #task pubmed
+	- [x] #task filesystem ✅ 2025-06-13
+		- [ ] #task Human as a tool
+			- [ ] #task pubmed
 				- [x] #task python REPL ✅ 2025-06-13
 				- [ ] #task semantic scholar
 				- [ ] #task wikipedia
@@ -57,7 +45,6 @@
 - [ ] #task Include an **example run** in the methods section
 - [ ] #task Write **READMEs** for the datasets on HuggingFace #discuss
 - [ ] #task Create a doc with **issues/requests/ramblings** #planned
-- [x] #task Create a timeline for the Book Chapter #next ✅ 2026-04-15
 
 # Comments
 1) Public/general knowledge, 2) Scientist/epidemiology/government, 3) Outreach to populations (extension, community health workers), 4) from poultry industry
@@ -157,3 +144,15 @@
 - [x] #task Change how namespace is handled. Currently the namespace gradually accumulates over time. Use the following approach ✅ 2026-03-17 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
 - [x] #task Write test for new namespace handling logic ✅ 2026-03-17 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
 - [x] #task Read and understand namespace handling approach (3 hours ish) ✅ 2026-03-17 🔒 [[2026-03-17]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
+- [x] #task Set up **AWS integration** ✅ 2026-04-14 🔒 [[2026-05-25]] 🕸️ 🚀 Project SPARQ Task List > 🏗️ Infrastructure & DevOps
+	- [x] #task Place to set region (us-east-1 in `config.toml`) ✅ 2026-03-02
+		- [x] #task Set `AWS_PROFILE` (sensd) ✅ 2026-03-02
+- [x] #task Create a timeline for the Book Chapter #next ✅ 2026-04-15 🔒 [[2026-05-25]] 🕸️ 🚀 Project SPARQ Task List > 📖 Research & Documentation
+- [x] #task Recursive building of config.toml (project root config -> user provided config) ✅ 2026-05-25 🔒 [[2026-05-25]] 🕸️ 🚀 Project SPARQ Task List > 🏗️ Infrastructure & DevOps
+- [x] #task Create a `.env.example` so that example code doesn't have to be hardcoded in `settings.py` ✅ 2026-05-25 🔒 [[2026-05-25]] 🕸️ 🚀 Project SPARQ Task List > 🏗️ Infrastructure & DevOps
+- [x] #task Use df_summaries_short in planner and executor system prompt ✅ 2026-05-25 🔒 [[2026-05-25]] 🕸️ 🚀 Project SPARQ Task List > 🤖 Model & Provider Logic
+	- Refactor list
+	- [x] system prompts ✅ 2026-05-25
+	- [x] planner node module ✅ 2026-05-25
+	- [x] executor node module ✅ 2026-05-25
+	- [x] path to data summaries in `config.toml` ✅ 2026-05-25
