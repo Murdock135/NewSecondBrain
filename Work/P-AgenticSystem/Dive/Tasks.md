@@ -3,6 +3,10 @@
 # Architectural changes
 - [ ] #task Incorporate HITL on planning
 
+## Code use improvement
+Currently the namespace is dumped into the context. Instead, we can have the agent lookup whatever it needs. For example, before it creates a new `df` variable, it can look up if it already exists with a loopup `lookup_ns(var_name: str, module: Bool = False)`
+- [ ] #task Instead of dumping the namespace, have the REPL look up namespace and inform agent whenever duplicate exists.
+
 ## 🏗️ Infrastructure & DevOps
 - [ ] #task Fix **Dockerfile** and bash script that runs docker
 
