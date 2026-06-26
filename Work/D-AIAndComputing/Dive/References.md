@@ -8,6 +8,7 @@
 - [ ] #blog https://leehanchung.github.io/blogs/
 ## Reinforcement learning
 1. https://huggingface.co/learn/deep-rl-course/unit1/introduction
+2. https://spinningup.openai.com/en/latest/user/introduction.html
 ## Mechanistic Interpretability
 1. [How to become an MI researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)
 # Programming
