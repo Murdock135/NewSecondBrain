@@ -6,7 +6,8 @@
 - [ ] #course [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 - [ ] #docs [Nvidia's course catalog on AI](https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web)
 - [ ] #blog https://leehanchung.github.io/blogs/
-- [ ] 
+## Reinforcement learning
+1. https://huggingface.co/learn/deep-rl-course/unit1/introduction
 ## Mechanistic Interpretability
 1. [How to become an MI researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)
 # Programming
