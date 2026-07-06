@@ -2,6 +2,12 @@
 
 # Architectural changes
 - [ ] #task Incorporate HITL on planning
+- [ ] #task Give a tool to the planner that grabs relevant information from external sources like pubmed, wikipedia, semantic scholar and create a knowledge store, which then the planner can read from. We can arrange the knowledge store as a directory with further subdirectories such as.
+	- `index.md`
+	- `SOTA.md`
+	- `key_notes.md`
+	- `ref_links.json
+- [ ] #task Create a node that writes an index of the files produced by the executor in json format and any other table format.
 
 ## Code use improvement
 Currently the namespace is dumped into the context. Instead, we can have the agent lookup whatever it needs. For example, before it creates a new `df` variable, it can look up if it already exists with a loopup `lookup_ns(var_name: str, module: Bool = False)`
@@ -12,7 +18,7 @@ Currently the namespace is dumped into the context. Instead, we can have the age
 
 ## 🤖 Model & Provider Logic
 - [ ] #task Every time **SPARQ** runs, get list of bedrock models and cache it. If list updates, replace old list with newer one.
-- [ ] #task Use planner's other fields in executor's system prompt as well.
+- [ ] #task Give the executor the full plan and the data context.
 - [ ] #task Build **guardrails** - OpenAI moderation API
 - [ ] #task Set up **CLI args**
 	- [ ] #task Pick output location
@@ -23,13 +29,7 @@ Currently the namespace is dumped into the context. Instead, we can have the age
 ## 🛠️ Tool Integration & Agents
 - [ ] #task Create a **writer node** that will write the final answer nicely
 - [ ] #task Create the **weather calling tool**
-- [ ] #task **Integrate tools**
-	- [x] #task filesystem ✅ 2025-06-13
-		- [ ] #task Human as a tool
-			- [ ] #task pubmed
-				- [x] #task python REPL ✅ 2025-06-13
-				- [ ] #task semantic scholar
-				- [ ] #task wikipedia
+- [ ] #task Give the aggregator file reading tool so it can read everything the executor outputted.
 
 ## 📊 Data & Testing
 - [ ] #task **Import tests**

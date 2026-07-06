@@ -18,7 +18,7 @@ Go to [[TasksNext]]
 Analysis I (Terence Tao): 12/550
 Man's Search For Meaning (Viktor Frankl): 138/138
 Stylish Academic Writing (Helen Sword): 27/182
-Brave New World (Aldous Huxley): 76/258
+Brave New World (Aldous Huxley): 198/258
 Hands-on Large Language Models (Jay Alamar): 16/425
 ```
 
