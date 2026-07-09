@@ -8,6 +8,10 @@
 	- `key_notes.md`
 	- `ref_links.json
 - [ ] #task Create a node that writes an index of the files produced by the executor in json format and any other table format.
+- [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
+- [ ] #task Incorporate tool lookup https://docs.langchain.com/oss/python/langchain/middleware/built-in#provider-tool-search
+# Prompt Engineering
+- [ ] #task mention the tools available in executor prompt
 
 ## Code use improvement
 Currently the namespace is dumped into the context. Instead, we can have the agent lookup whatever it needs. For example, before it creates a new `df` variable, it can look up if it already exists with a loopup `lookup_ns(var_name: str, module: Bool = False)`
@@ -24,7 +28,6 @@ Currently the namespace is dumped into the context. Instead, we can have the age
 	- [ ] #task Pick output location
 	- [ ] #task Pick LLM provider and model
 	- [ ] #task Make verbose or not
-- [ ] #task Parallelize the different approaches 'linear regressor' , 'non-linear regressor'
 
 ## 🛠️ Tool Integration & Agents
 - [ ] #task Create a **writer node** that will write the final answer nicely
@@ -52,6 +55,7 @@ Currently the namespace is dumped into the context. Instead, we can have the age
 
 # Comments
 1) Public/general knowledge, 2) Scientist/epidemiology/government, 3) Outreach to populations (extension, community health workers), 4) from poultry industry
+2) Try using deep-coder https://docs.langchain.com/oss/python/deepagents/code/overview#full-list-of-built-in-tools
 
 # Archived
 
