@@ -12,6 +12,10 @@
 - [ ] #task Incorporate tool lookup https://docs.langchain.com/oss/python/langchain/middleware/built-in#provider-tool-search
 # Prompt Engineering
 - [ ] #task mention the tools available in executor prompt
+## Ideas
+1. Incorporate a way to detect possible overlaps within the sub-steps of the steps of each plan. Perhaps have a critic for the planner.
+2. Use deliverables. Each Step should have deliverables. The deliverables can be used by the planner (when it's thinking) to better decide dependent steps. Furthermore, this will help the executor agent decide on completion criteria.
+3. Track token count going into the worker agents and then implement smart ways of handling.
 
 ## Code use improvement
 Currently the namespace is dumped into the context. Instead, we can have the agent lookup whatever it needs. For example, before it creates a new `df` variable, it can look up if it already exists with a loopup `lookup_ns(var_name: str, module: Bool = False)`
