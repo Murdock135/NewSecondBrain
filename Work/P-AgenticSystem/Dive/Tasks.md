@@ -10,6 +10,7 @@
 - [ ] #task Create a node that writes an index of the files produced by the executor in json format and any other table format.
 - [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
 - [ ] #task Incorporate tool lookup https://docs.langchain.com/oss/python/langchain/middleware/built-in#provider-tool-search
+- [ ] #task Introduce `postprocess_results` as a node instead of a helper function.
 # Prompt Engineering
 - [ ] #task mention the tools available in executor prompt
 ## Ideas
