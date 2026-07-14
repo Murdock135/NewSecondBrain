@@ -2,6 +2,8 @@ This is where ad-hoc tasks and roadmaps live
 
 # Implementing async parallel agents
 1. https://docs.python.org/3/howto/a-conceptual-overview-of-asyncio.html#a-conceptual-overview-of-asyncio
+# Implement multi-turn query handling
+- [ ] #task Understand the graph API #next
 # Pickling python variables
 1. https://docs.python.org/3/library/pickle.html#examples
 2. https://docs.python.org/3/library/tempfile.html

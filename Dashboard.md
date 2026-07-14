@@ -42,5 +42,4 @@ where contains(tags, "#milestone") and !completed
 # All tasks
 ```tasks
 not done
-tag includes #task
 ```
