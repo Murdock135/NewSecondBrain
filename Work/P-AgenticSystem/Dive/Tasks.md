@@ -1,5 +1,8 @@
 - [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
 - [ ] #task Add node `postprocess_results`. It's job is to create indexes of figures in `figures/` , tables in `tables/` , an `index.md`, `key_notes.md` (from the *executor node's* `execution_results` field)
+- [ ] #task Parallelize experiment 00
+	- [ ] #task Let the system stream results into a different stream, instead of stdout. One way of doing this is to create a file for each graph run, stamped by some id (possibly the `run_id`), to which text from the `graph.astream` is continuously appended.
+	- [x] #task Introduce a way to prevent race conditions due to package installation commands ensuing because of two different questions. (claude suggested using a semaphore) ✅ 2026-07-17
 - [ ] #task Make a type for system output with the following fields
 	- `run_id`
 	- `query` (from dataset)
@@ -14,6 +17,11 @@
 	- `duration` (from script)
 	- `sparq_judge_score: dict`
 	- `sparq_judge_review`
+- [ ] #task Implement a logger
+	- [ ] #task Define a print function that uses rich to print in color. It should take
+		- **args:** 
+			- `color`
+			- `state: Literal[Any of nodes & pregraph]`
 
 ### Ablation config
 ```python
