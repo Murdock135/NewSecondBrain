@@ -1,8 +1,6 @@
 
 - [ ] #task Explore Abstract Meaning Representation graphs and Semantic Role Labelling (SRL)
-- [ ] #task Code the claude integration
-- [ ] #task code the AWS integration
-- [ ] #task code the ollama integration
+- [ ] #task Create an output schema for the UoD extractor
 - [ ] #task In the system prompt of the data generator, introduce another concept- a matrix that indicates which models have been given a piece of information $\lambda$ by the human. Each row represents the 'existence' vector for a piece of evidence. For example $\lambda=(1,0,1)^T$ means evidence $\lambda$ has been given to model 1 and 3 but not 0. This will be produced by the LLM in the data sample.
 
 # Archived

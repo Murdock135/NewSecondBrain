@@ -6,6 +6,8 @@
 - [ ] #course [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 - [ ] #docs [Nvidia's course catalog on AI](https://nvdam.widen.net/s/brxsxxtskb/dli-learning-journey-2009000-r5-web)
 - [ ] #blog https://leehanchung.github.io/blogs/
+## Natural Language Processing
+- [ ] #lectures [Speech and Language Processing by Juravsy and Martin](https://web.stanford.edu/~jurafsky/slp3/)
 ## Reinforcement learning
 1. https://huggingface.co/learn/deep-rl-course/unit1/introduction
 2. https://spinningup.openai.com/en/latest/user/introduction.html
