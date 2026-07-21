@@ -1,9 +1,6 @@
 - [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
 - [ ] #task Add node `postprocess_results`. It's job is to create indexes of figures in `figures/` , tables in `tables/` , an `index.md`, `key_notes.md` (from the *executor node's* `execution_results` field)
-- [ ] #task Parallelize experiment 00
-	- [x] #task Let the system stream results into a different stream, instead of stdout. One way of doing this is to create a file for each graph run, stamped by some id (possibly the `run_id`), to which text from the `graph.astream` is continuously appended. ✅ 2026-07-20
-	- [x] #task Introduce a way to prevent race conditions due to package installation commands ensuing because of two different questions. (claude suggested using a semaphore) ✅ 2026-07-17
-- [ ] #task Make a type for system output with the following fields
+- [x] #task Make a type for system output with the following fields ✅ 2026-07-20
 	- `run_id`
 	- `query` (from dataset)
 	- `difficulty` (from dataset)
@@ -17,11 +14,7 @@
 	- `duration` (from script)
 	- `sparq_judge_score: dict`
 	- `sparq_judge_review`
-- [ ] #task Implement a logger
-	- [ ] #task Define a print function that uses rich to print in color. It should take
-		- **args:** 
-			- `color`
-			- `state: Literal[Any of nodes & pregraph]`
+- [ ] #task Extract token in, token out and cost info from sparq
 
 ### Ablation config
 ```python
@@ -182,3 +175,11 @@
 	- [x] planner node module ✅ 2026-05-25
 	- [x] executor node module ✅ 2026-05-25
 	- [x] path to data summaries in `config.toml` ✅ 2026-05-25
+- [x] #task Parallelize experiment 00 ✅ 2026-07-20 🔒 [[2026-07-20]] 🕸️ Tasks
+	- [x] #task Let the system stream results into a different stream, instead of stdout. One way of doing this is to create a file for each graph run, stamped by some id (possibly the `run_id`), to which text from the `graph.astream` is continuously appended. ✅ 2026-07-20
+	- [x] #task Introduce a way to prevent race conditions due to package installation commands ensuing because of two different questions. (claude suggested using a semaphore) ✅ 2026-07-17
+- [x] #task Implement a logger ✅ 2026-07-20 🔒 [[2026-07-20]] 🕸️ Tasks
+	- [x] #task Define a print function that uses rich to print in color. It should take ✅ 2026-07-20
+		- **args:** 
+			- `color`
+			- `state: Literal[Any of nodes & pregraph]`
