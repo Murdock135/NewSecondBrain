@@ -14,7 +14,8 @@
 	- `duration` (from script)
 	- `sparq_judge_score: dict`
 	- `sparq_judge_review`
-- [ ] #task Extract token in, token out and cost info from sparq
+- [ ] #task Extract token in, token out and cost info from sparq #next
+- [ ] #task Add a web search tool to the executor
 
 ### Ablation config
 ```python

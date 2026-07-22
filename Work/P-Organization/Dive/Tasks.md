@@ -8,10 +8,7 @@
 	- [ ] #task Obsidian
 	- [ ] #task Zen browser
 	- [ ] #task Sioyek
-- [x] #task Set up basedpyright LSP ✅ 2026-07-22
-	- [x] #task Read LSP docs for nvim ✅ 2026-07-22
-	- [x] #task Install basedpyright ✅ 2026-07-22
-	- [x] #task Configure dots ✅ 2026-07-22
+	- [x] #task Fix Treesitter ✅ 2026-07-22
 # Archived
 
 - [x] #task Set up display manager in EOS ✅ 2025-11-01 🔒 [[2025-11-01]] 🕸️ Tasks
@@ -20,3 +17,7 @@
 - [x] #task Script to install and enable nvm ✅ 2025-12-30 🔒 [[2026-07-21]] 🕸️ Tasks
 - [x] #task Script to disable nvm ✅ 2025-12-30 🔒 [[2026-07-21]] 🕸️ Tasks
 - [x] #task get a notebook that shows the calendar right beside the notes section ✅ 2026-02-26 🔒 [[2026-07-21]] 🕸️ Tasks
+- [x] #task Set up basedpyright LSP ✅ 2026-07-22 🔒 [[2026-07-22]] 🕸️ Tasks
+	- [x] #task Read LSP docs for nvim ✅ 2026-07-22
+	- [x] #task Install basedpyright ✅ 2026-07-22
+	- [x] #task Configure dots ✅ 2026-07-22
