@@ -2,7 +2,7 @@
 - [ ] #milestone set up declarative OS with nix
 - [ ] #milestone read some arch wiki
 - [ ] #milestone Go through all emails and **delete**, **unsubscribe** emails
-- [ ] #milestone Build a finance excel sheet to track finances
+- [x] #milestone Build a finance excel sheet to track finances ✅ 2026-07-21
 - [ ] #milestone move digital library to papis or cobib
 - [ ] #milestone set up EndeavorOS
 - [ ] #milestone Create a personal website

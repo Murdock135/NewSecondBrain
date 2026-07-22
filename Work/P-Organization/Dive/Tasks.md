@@ -1,8 +1,5 @@
 - [ ] #task incorporate aerospace tiling in mac
-- [x] #task get a notebook that shows the calendar right beside the notes section ✅ 2026-02-26
 - [ ] #task Start papis
-- [x] #task Script to install and enable nvm ✅ 2025-12-30
-- [x] #task Script to disable nvm ✅ 2025-12-30
 - [ ] #task Organize google photos
 - [ ] #task Windows shortcuts (autohotkey)
 	- [ ] #task Everything 
@@ -11,8 +8,15 @@
 	- [ ] #task Obsidian
 	- [ ] #task Zen browser
 	- [ ] #task Sioyek
+- [x] #task Set up basedpyright LSP ✅ 2026-07-22
+	- [x] #task Read LSP docs for nvim ✅ 2026-07-22
+	- [x] #task Install basedpyright ✅ 2026-07-22
+	- [x] #task Configure dots ✅ 2026-07-22
 # Archived
 
 - [x] #task Set up display manager in EOS ✅ 2025-11-01 🔒 [[2025-11-01]] 🕸️ Tasks
 - [x] #task Download and set font. Then set up script to download font ✅ 2025-11-01 🔒 [[2025-12-13]] 🕸️ Tasks
 - [x] #task Track `config/konsave/` ✅ 2025-11-01 🔒 [[2025-12-13]] 🕸️ Tasks
+- [x] #task Script to install and enable nvm ✅ 2025-12-30 🔒 [[2026-07-21]] 🕸️ Tasks
+- [x] #task Script to disable nvm ✅ 2025-12-30 🔒 [[2026-07-21]] 🕸️ Tasks
+- [x] #task get a notebook that shows the calendar right beside the notes section ✅ 2026-02-26 🔒 [[2026-07-21]] 🕸️ Tasks
