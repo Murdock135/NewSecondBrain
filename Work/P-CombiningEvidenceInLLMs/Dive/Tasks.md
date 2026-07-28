@@ -2,6 +2,7 @@
 - [ ] #task Explore Abstract Meaning Representation graphs and Semantic Role Labelling (SRL)
 - [ ] #task Create an output schema for the UoD extractor
 - [ ] #task In the system prompt of the data generator, introduce another concept- a matrix that indicates which models have been given a piece of information $\lambda$ by the human. Each row represents the 'existence' vector for a piece of evidence. For example $\lambda=(1,0,1)^T$ means evidence $\lambda$ has been given to model 1 and 3 but not 0. This will be produced by the LLM in the data sample.
+- [ ] #task Implement a factory pattern for the components (*extractor, data_generator, bpa_assigner, etc*) by having a function i
 
 # Archived
 
