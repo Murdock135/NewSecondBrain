@@ -1,5 +1,7 @@
 - [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
-- [ ] #task Add node `postprocess_results`. It's job is to create indexes of figures in `figures/` , tables in `tables/` , an `index.md`, `key_notes.md` (from the *executor node's* `execution_results` field)
+- [ ] #task Add features to `saver`. It's job is to 
+	- [ ] create indexes of figures in `figures/` , tables in `tables/` , an `index.md`, `key_notes.md` (from the *executor node's* `execution_results` field)
+	- [ ] Use [markitdown](https://github.com/microsoft/markitdown) to convert the aggregator's output into markdown.
 - [x] #task Make a type for system output with the following fields ✅ 2026-07-20
 	- `run_id`
 	- `query` (from dataset)
@@ -14,6 +16,7 @@
 	- `duration` (from script)
 	- `sparq_judge_score: dict`
 	- `sparq_judge_review`
+- [ ] #task Split the `SystemOutput` schema into two. Most of the fields should be filled by SPARQ itself. The experiment should fill up fields like `ablation_config`
 - [ ] #task Extract token in, token out and cost info from sparq #next
 - [ ] #task Add a web search tool to the executor
 
