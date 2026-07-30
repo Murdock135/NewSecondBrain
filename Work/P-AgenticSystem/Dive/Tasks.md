@@ -16,7 +16,7 @@
 	- `duration` (from script)
 	- `sparq_judge_score: dict`
 	- `sparq_judge_review`
-- [ ] #task Split the `SystemOutput` schema into two. Most of the fields should be filled by SPARQ itself. The experiment should fill up fields like `ablation_config`
+
 - [ ] #task Extract token in, token out and cost info from sparq #next
 - [ ] #task Add a web search tool to the executor
 
