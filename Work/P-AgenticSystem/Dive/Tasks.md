@@ -17,7 +17,10 @@
 	- `sparq_judge_score: dict`
 	- `sparq_judge_review`
 
-- [ ] #task Extract token in, token out and cost info from sparq #next
+- [x] #task Write `SystemOutput` to disk ✅ 2026-08-03
+- [ ] #task Incorporate another CLI arg to the `batch_eval.py` script that allows running batch evals multiple times. (plan to eventually produce a data sheet for the batch eval)
+	- [ ] #task Wrap in a loop
+- [ ] #task Extract token in, token out and cost info from sparq
 - [ ] #task Add a web search tool to the executor
 
 ### Ablation config
