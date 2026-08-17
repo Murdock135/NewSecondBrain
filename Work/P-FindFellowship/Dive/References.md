@@ -1,3 +1,2 @@
-Mizzou has a fellowship database [here](https://fellowships.missouri.edu/fellowships/citizenship/non-u-s-citizen/). Here are some I found
-1. [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/#faqs-5) (Deadline April 30)
-2. [IBM Academic awards program](https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program#award-details)
+- Mizzou has a fellowship database [here](https://fellowships.missouri.edu/fellowships/citizenship/non-u-s-citizen/). Here are some I found
+- [Research Council Grants](https://research.missouri.edu/internal-funding/research-council-grants?utm_campaign=972472_RII%20Newsletter%2C%20August%202026&utm_medium=email&utm_source=The_Curators_of_the_University_of_Missouri&dm_i=7IQU,KUD4,4THD3W,3QQJ5,1,0,0,0)

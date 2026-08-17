@@ -1,2 +1,1 @@
-- [ ] #task write a cursory proposal essay
-- [ ] #task Create a timeline in the calendar
+- [x] #task write a cursory proposal essay ✅ 2026-08-17

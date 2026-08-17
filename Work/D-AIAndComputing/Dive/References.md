@@ -48,6 +48,7 @@
 - [ ] #course [Compilers](https://youtu.be/5ZmFlxrNaN8?si=y0gYvnXZB-_pPqdL)
 - [ ] #course (paid) https://www.designgurus.io/course/grokking-system-design-fundamentals
 - [ ] #book [The GNU privacy handbook](https://www.gnupg.org/gph/en/manual/book1.html)
+- [ ] #book [Crafting interpreters](https://craftinginterpreters.com/contents.html)
 # Math
 ## Statistics
 - [ ] #book Statistical Inference (Casella)

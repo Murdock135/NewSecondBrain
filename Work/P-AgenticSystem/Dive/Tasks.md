@@ -61,6 +61,7 @@
 	- [ ] #task fix dockerfile
 	- [ ] #task fix run scripts
 - [ ] #task Implement lazy-updating bedrock model list and cross-checking with config files.
+- [ ] #task Add a web search node (tavily + pubmed)
 
 # Future work (v2)
 - [ ] #task Planner supervisor
