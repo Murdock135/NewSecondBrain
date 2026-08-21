@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Border",
   "theme": "obsidian",
   "textFontFamily": "",
-  "interfaceFontFamily": "Helvetica",
+  "interfaceFontFamily": "",
   "accentColor": "#239a47",
-  "translucency": false
+  "translucency": true
 }

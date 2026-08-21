@@ -17,7 +17,7 @@ Go to [[TasksNext]]
 
 Analysis I (Terence Tao): 12/550
 Stylish Academic Writing (Helen Sword): 27/182
-Glimpses of world history (Jawaharlal Nehru): 1/972
+Glimpses of world history (Jawaharlal Nehru): 12/972
 ```
 
 

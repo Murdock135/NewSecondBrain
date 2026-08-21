@@ -1,6 +1,8 @@
 - [ ] #task Learn how to use github for project management
 - [ ] #task learn about using MCP
-- [ ] #task Beej's c book: Pointers
+- [ ] #task Python callables
+- [ ] #task Learn about type theory, python typing (est 3 hours) #next
+- [x] #task Beej's c book: Pointers ✅ 2026-08-20
 
 # Archived
 
