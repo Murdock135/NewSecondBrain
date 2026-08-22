@@ -15,6 +15,7 @@
 1. [How to become an MI researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)
 # Programming
 - [ ] #book Art of computer Programming
+- [ ] #docs [Static typing in python]([https://typing.python.org/en/latest/spec/index.html)](https://typing.python.org/en/latest/index.html#)
 - [ ] #docs Bash [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 - [x] #docs vimtutor
 - [ ] #docs vimtutor sequel
