@@ -1,3 +1,4 @@
+- https://lobehub.com/pricing
 - [ ] hyprland
 - [ ] mise
 - [ ] arch
