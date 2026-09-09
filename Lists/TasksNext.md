@@ -1,4 +1,5 @@
 # Next
+- [ ] #task Send a when2meet to the team 🔺 
 ```tasks
 tag includes #next
 not done

@@ -13,6 +13,9 @@
 # Writing
 - [ ] #task Write 300 words on the introduction #next
 
+# Misc
+- [ ] #task Organize notes from notebook into obsidian
+
 ### Ablation config
 ```python
 {
