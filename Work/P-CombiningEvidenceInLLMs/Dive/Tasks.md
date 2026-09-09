@@ -1,7 +1,10 @@
 
 # Coding and Reading
-- [ ] #task Fix `LanguageModelFocalSetCreator._validate_result()`
-- [ ] #task Implement the language model implementation of the BPA assignment module #next
+- [ ] #task Create a node that can create a nice summary table of the experiment, possibly in markdown
+- [ ] #task Consider using an LLM judge. see the below for an example wherein GPT-6 Astra judges the output
+![[Pasted image 20260909123654.png]]
+- [x] #task Implement the language model implementation of the BPA assignment module #next ✅ 2026-09-09
+- [ ] #task Implement retry logic for each component. You can use the `_validate_()` functions as the anchor for the retries
 - [ ] #task Explore Abstract Meaning Representation graphs and Semantic Role Labelling (SRL)
 - [ ] #task In the system prompt of the data generator, introduce another concept- a matrix that indicates which models have been given a piece of information $\lambda$ by the human. Each row represents the 'existence' vector for a piece of evidence. For example $\lambda=(1,0,1)^T$ means evidence $\lambda$ has been given to model 1 and 3 but not 0. This will be produced by the LLM in the data sample.
 # Writing
@@ -29,3 +32,4 @@
 	- [x] In `default_config.toml`
 		- [x] `hypothesis_extractor -> fod_extractor`
 - [x] #task Create the focal_set extractor ✅ 2026-08-24 🔒 [[2026-09-09]] 🕸️ Tasks
+- [x] #task Fix `LanguageModelFocalSetCreator._validate_result()` ✅ 2026-09-09 🔒 [[2026-09-09]] 🕸️ Coding and Reading
