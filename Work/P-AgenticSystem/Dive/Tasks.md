@@ -1,27 +1,17 @@
+# Coding
 - [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
 - [ ] #task Add features to `saver`. It's job is to 
 	- [ ] create indexes of figures in `figures/` , tables in `tables/` , an `index.md`, `key_notes.md` (from the *executor node's* `execution_results` field)
 	- [ ] Use [markitdown](https://github.com/microsoft/markitdown) to convert the aggregator's output into markdown.
-- [x] #task Make a type for system output with the following fields ✅ 2026-07-20
-	- `run_id`
-	- `query` (from dataset)
-	- `difficulty` (from dataset)
-	- `ablation_config: dict`
-	- `response` (from SPARQ)
-	- `token_out` (from SPARQ metadata)
-	- `models` (from config class)
-	- `cost` (from SPARQ metadata)
-	- `time_started` (from script)
-	- `time_ended` (from script)
-	- `duration` (from script)
-	- `sparq_judge_score: dict`
-	- `sparq_judge_review`
 
-- [x] #task Write `SystemOutput` to disk ✅ 2026-08-03
 - [ ] #task Incorporate another CLI arg to the `batch_eval.py` script that allows running batch evals multiple times. (plan to eventually produce a data sheet for the batch eval)
 	- [ ] #task Wrap in a loop
 - [ ] #task Extract token in, token out and cost info from sparq
 - [ ] #task Add a web search tool to the executor
+- [ ] #task Use the EC2 instance provided by jason to run SPARQ
+
+# Writing
+- [ ] #task Write 300 words on the introduction #next
 
 ### Ablation config
 ```python
@@ -191,3 +181,18 @@
 		- **args:** 
 			- `color`
 			- `state: Literal[Any of nodes & pregraph]`
+- [x] #task Make a type for system output with the following fields ✅ 2026-07-20 🔒 [[2026-09-09]] 🕸️ Tasks
+	- `run_id`
+	- `query` (from dataset)
+	- `difficulty` (from dataset)
+	- `ablation_config: dict`
+	- `response` (from SPARQ)
+	- `token_out` (from SPARQ metadata)
+	- `models` (from config class)
+	- `cost` (from SPARQ metadata)
+	- `time_started` (from script)
+	- `time_ended` (from script)
+	- `duration` (from script)
+	- `sparq_judge_score: dict`
+	- `sparq_judge_review`
+- [x] #task Write `SystemOutput` to disk ✅ 2026-08-03 🔒 [[2026-09-09]] 🕸️ Tasks

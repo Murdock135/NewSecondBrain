@@ -1,9 +1,12 @@
 
-- [x] #task Create the focal_set extractor ✅ 2026-08-24
+# Coding and Reading
 - [ ] #task Fix `LanguageModelFocalSetCreator._validate_result()`
+- [ ] #task Implement the language model implementation of the BPA assignment module #next
 - [ ] #task Explore Abstract Meaning Representation graphs and Semantic Role Labelling (SRL)
 - [ ] #task In the system prompt of the data generator, introduce another concept- a matrix that indicates which models have been given a piece of information $\lambda$ by the human. Each row represents the 'existence' vector for a piece of evidence. For example $\lambda=(1,0,1)^T$ means evidence $\lambda$ has been given to model 1 and 3 but not 0. This will be produced by the LLM in the data sample.
-
+# Writing
+- [ ] #task Write 300 words of the introduction
+	- Pointers: Current world problem framing (problem+literature)
 # Archived
 
 - [x] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm ✅ 2025-11-06 🔒 [[2025-11-30]] 🕸️ Tasks
@@ -25,3 +28,4 @@
 		- [x] `ExtractorOutput -> FodOutput`
 	- [x] In `default_config.toml`
 		- [x] `hypothesis_extractor -> fod_extractor`
+- [x] #task Create the focal_set extractor ✅ 2026-08-24 🔒 [[2026-09-09]] 🕸️ Tasks
