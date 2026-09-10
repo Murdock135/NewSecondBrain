@@ -1,14 +1,16 @@
 # Coding
-- [ ] #task Merge `feat/loop_batch_eval` with `main`
+- [ ] #task Merge `feat/loop_batch_eval` with `main` #next
 - [ ] #task Use ToT (tree of thought) prompting with planner and ask it to produce multiple plans so that different plans can be implemented e.g. a non-linear regressor + linear regressor and can be parallelized.
 - [ ] #task Add features to `saver`. It's job is to 
 	- [ ] create indexes of figures in `figures/` , tables in `tables/` , an `index.md`, `key_notes.md` (from the *executor node's* `execution_results` field)
 	- [ ] Use [markitdown](https://github.com/microsoft/markitdown) to convert the aggregator's output into markdown.
 - [ ] #task Incorporate another CLI arg to the `batch_eval.py` script that allows running batch evals multiple times. (plan to eventually produce a data sheet for the batch eval)
 	- [ ] #task Wrap in a loop
-- [ ] #task Extract token in, token out and cost info from sparq
-- [ ] #task Add a web search tool to the executor
-- [ ] #task Use the EC2 instance provided by jason to run SPARQ
+- [ ] #task Extract token in, token out and cost info from sparq #next
+- [ ] #task Add a web search tool to the executor #next
+- [ ] #task Use the EC2 instance provided by jason to run SPARQ #next
+- [ ] #task Start creating a web ui (10+ days) #next
+- [ ] #task List evaluations for paper #next
 
 # Writing
 - [ ] #task Write 300 words on the introduction #next
