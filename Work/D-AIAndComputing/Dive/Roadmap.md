@@ -13,8 +13,8 @@
 	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Artificial Intelligence topics|Artificial Intelligence readings]]
 	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Python|Python readings]]
 ___ 
-## Parallel work
-- Language Models (D2L.ai)
+## Parallel study
+- Language Models
 - Dempster schafer theory
 - Research on the above two
 # Phase 2: Dev Tools + AI part 1

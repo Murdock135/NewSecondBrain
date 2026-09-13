@@ -10,6 +10,7 @@
 # Writing
 - [ ] #task Write 300 words of the introduction
 	- Pointers: Current world problem framing (problem+literature)
+
 # Archived
 
 - [x] #task Come up with possible frames of discernments, write about it and meet Dr. A to brainstorm ✅ 2025-11-06 🔒 [[2025-11-30]] 🕸️ Tasks
@@ -20,6 +21,7 @@
 - [x] #task code the first hypothesis extractor ✅ 2025-11-30 🔒 [[2025-11-30]] 🕸️ Tasks
 - [x] #task Build a synthetic data generator that uses an LLM to create the dataset. This would allow us to control the amount of conflict that each model will have. For example, perhaps M1 and M2 align and together contradict with M3. ✅ 2026-02-11 🔒 [[2026-02-12]] 🕸️ Tasks
 - [x] #task Rewrite the system prompt ✅ 2026-02-12 🔒 [[2026-02-12]] 🕸️ Tasks
+<<<<<<< HEAD
 - [x] #task Create an output schema for the UoD extractor ✅ 2026-08-21 🔒 [[2026-08-24]] 🕸️ Tasks
 - [x] #task Create an output schema for the Frame of Discernment extractor. ✅ 2026-08-21 🔒 [[2026-08-24]] 🕸️ Tasks
 - [x] #task Implement a factory pattern for the components (*extractor, data_generator, bpa_assigner, etc*) by having a function `configure` ✅ 2026-08-21 🔒 [[2026-08-24]] 🕸️ Tasks
@@ -33,3 +35,11 @@
 		- [x] `hypothesis_extractor -> fod_extractor`
 - [x] #task Create the focal_set extractor ✅ 2026-08-24 🔒 [[2026-09-09]] 🕸️ Tasks
 - [x] #task Fix `LanguageModelFocalSetCreator._validate_result()` ✅ 2026-09-09 🔒 [[2026-09-09]] 🕸️ Coding and Reading
+=======
+- [x] #task Create an output schema for the UoD extractor ✅ 2026-08-21 🔒 [[2026-08-25]] 🕸️ Tasks
+- [x] #task Create an output schema for the Frame of Discernment extractor. ✅ 2026-08-21 🔒 [[2026-08-25]] 🕸️ Tasks
+- [x] #task Implement a factory pattern for the components (*extractor, data_generator, bpa_assigner, etc*) by having a function `configure` ✅ 2026-08-21 🔒 [[2026-08-25]] 🕸️ Tasks
+	- [x] #task the base class should indicate the `configure` contract ✅ 2026-08-21
+	- [ ] #task the component should implement `configure`
+- [x] #task Use the google-genai idiomatic way of setting system prompts, inference properties e.g. top-p, temp. see https://googleapis.github.io/python-genai/#system-instructions-and-other-configs ✅ 2026-08-21 🔒 [[2026-08-25]] 🕸️ Tasks
+>>>>>>> a9c58f1 (.)
