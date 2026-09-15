@@ -1,4 +1,8 @@
+- [ ] https://openai.com/index/ten-advances-in-mathematics/ #read 
+- [ ] https://openai.com/index/jalapeno-first-results/ #read
+- [ ] https://openai.com/index/hugging-face-incident-and-the-road-ahead/ #read
 - [ ] Read https://plato.stanford.edu/entries/artificial-intelligence/ #read
+- [ ] https://huggingface.co/blog/agent-intrusion-technical-timeline #read
 - [ ] https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus #read
 - [ ] Learn about pdb (python debugger) (30m) #read
 - [ ] Read python docs 4.9 (recap-intermezzo) #read
