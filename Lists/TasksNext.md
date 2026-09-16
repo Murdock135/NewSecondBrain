@@ -1,4 +1,5 @@
 # Next
+- [ ] #task Grade assignments for Comp Intelligence
 ```tasks
 tag includes #next
 not done

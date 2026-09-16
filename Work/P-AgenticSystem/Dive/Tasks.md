@@ -12,6 +12,9 @@
 - [ ] #task Start creating a web ui (10+ days) #next
 - [ ] #task List evaluations for paper #next
 
+# Reading
+- [ ] #task Read reference papers
+	- [ ] #task https://spj.science.org/doi/full/10.34133/hds.0449
 # Writing
 - [ ] #task Write 300 words on the introduction #next
 
