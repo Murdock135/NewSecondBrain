@@ -1,6 +1,8 @@
 - [ ] https://openai.com/index/ten-advances-in-mathematics/ #read 
 - [ ] https://openai.com/index/jalapeno-first-results/ #read
 - [ ] https://openai.com/index/hugging-face-incident-and-the-road-ahead/ #read
+- [ ] https://kenhuangus.substack.com/p/designing-hermes-agent-from-scratch #read
+- [ ] [UN's AI resource guide- 120pgs](https://sdgs.un.org/sites/default/files/2021-06/Resource%20Guide%20on%20AI%20Strategies_June%202021.pdf) #read
 - [ ] Read https://plato.stanford.edu/entries/artificial-intelligence/ #read
 - [ ] https://huggingface.co/blog/agent-intrusion-technical-timeline #read
 - [ ] https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus #read

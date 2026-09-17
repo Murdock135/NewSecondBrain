@@ -1,7 +1,9 @@
 
 # Coding and Reading
 - [ ] #task Create a node that can create a nice summary table of the experiment, possibly in markdown
-- [ ] #task Consider using an LLM judge. see the below for an example wherein GPT-6 Astra judges the output
+- [ ] #task Plan for using an LLM judge. see the below for an example wherein GPT-6 Astra judges the output
+	- [x] #task Plan ✅ 2026-09-16
+	- [ ] #task Code it
 ![[Pasted image 20260909123654.png]]
 - [x] #task Implement the language model implementation of the BPA assignment module #next ✅ 2026-09-09
 - [ ] #task Implement retry logic for each component. You can use the `_validate_()` functions as the anchor for the retries
