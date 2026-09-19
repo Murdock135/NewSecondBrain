@@ -1,52 +1,14 @@
-# Phase 1: Computer Science Fundamentals
-- Operating Systems
-- Computer organization and architecture
-- Assembly: [Assembly on x86](https://www.youtube.com/playlist?list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)
-- C: [C wikibook](https://en.wikibooks.org/wiki/C_Programming)
-- Systems programming: 
-- Do these at any time: 
-	- [Build a 65c02-based computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=P5kDVm81F_Sl0Ey7)
-	- [build your own package manager (typescript)](https://github.com/g-plane/tiny-package-manager)
-	- [Computation structures (MIT)](https://ocw.mit.edu/ans7870/6/6.005/s16/)
-	- [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
-	- [Series of Courses on C using linux](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
-	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Artificial Intelligence topics|Artificial Intelligence readings]]
-	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Python|Python readings]]
-___ 
-## Parallel study
-- Language Models
-- Dempster schafer theory
-- Research on the above two
-# Phase 2: Dev Tools + AI part 1
-- Python (The python tutorial)
-- Bash 
-- Fish shell
-- Git
-- [Deep Learning](https://d2l.ai/)
-- ~~Docker~~
-# Phase 3: Math part 1 + AI part 2
-- Linear Algebra (howard anton)
-- Analysis I(T. Tao)
-- Analaysis II (T.Tao)
-- Abstract Algebra
-- Read all [papers from D2L.ai](https://d2l.ai/chapter_references/zreferences.html)
-# Continuous learning
-- Kernel dev
-	- Linux Kernel dev
-	- Modern Processor design
-	- TCP/IP Illustrated
-	- Code
-- Matrix theory
-	- Matrix theory by Fuzhen Zhang
-	- Linear algebra by sheldon axler
-- Software engineering
-	- Twelve factor app
-- Computing
-	- [Parallel computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
-	- [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (Use [this spreadsheet](https://docs.google.com/spreadsheets/d/145RvpkXPHngCk-VL-F5otTAlWMJ04OhPl2zks7_HwRI/edit?pli=1&gid=0#gid=0) to read selectively).
-- Probability theory
-	- Probability, random processes with applications to signal processing
-	- High dimensional probability by roman vershynin
-- Signal Processing
-- Python
-	- Fluent Python
+Your responsibilities, priorities and opportunities as a PhD student and future employee are changing. Your roadmap thus cannot be static. However, the previous roadmap you created in [[Work/D-AIAndComputing/Dive/Archive/Roadmap|Roadmap]] is a good template and contains a valuable list of topics to study. 
+
+Your roadmap needs to be dynamic. I think it's best to keep the previous as a *big list* that you cover in a sliding-window manner; a portion of it during each window. For example, you could spend the next 3 months in studying 2 subjects comprehensively, treating each as its own course. 
+
+### Sept 2026 - January 2026
+1. The **transformer architecture and its training pipeline**. Use Sebastian Raschka's book that you've bought already.
+2. **Real Analysis.** Use Analysis I by Terence Tao
+3. At the same time, you need to research on LLM ensembling and general LLM research. Make sure you read enough papers.
+### Feb 2026 - May 2026
+You'll be spending most your time on your comprehensive during this time. Take it easy and focus on papers more. That being said, if you can continue and finish studying LLM post-training during this time, that'd be great. Your priorities are- 
+1. Write comprehensive
+2. Publish 2 papers on LLM ensembles using Belief theory.
+3. Join writing retreats, webinars for prospective post docs.
+4. You'll have at least 3 papers, 1 pre-print and 1 book chapter. This is a strong ending point for your PhD. Start crafting your research proposals for post-doc and apply to OpenAI, google and other 'more virtuous' AI labs. 

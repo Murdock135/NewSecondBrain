@@ -1,5 +1,7 @@
 # Next
 - [ ] #task Grade assignments for Comp Intelligence
+- [ ] #task Adjust AI and computing roadmap
+- [ ] #task Incorporate youtube playlists into roadmap
 ```tasks
 tag includes #next
 not done
