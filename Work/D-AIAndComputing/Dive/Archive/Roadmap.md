@@ -10,8 +10,8 @@
 	- [Computation structures (MIT)](https://ocw.mit.edu/ans7870/6/6.005/s16/)
 	- [Course on Parallel processing by Stanford CS149](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 	- [Series of Courses on C using linux](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux)
-	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Artificial Intelligence topics|Artificial Intelligence readings]]
-	- Everything in [[Work/D-AIAndComputing/Dive/Reading#Python|Python readings]]
+	- Everything in [[Work/D-AIAndComputing/Dive/Archive/Reading#Artificial Intelligence topics|Artificial Intelligence readings]]
+	- Everything in [[Work/D-AIAndComputing/Dive/Archive/Reading#Python|Python readings]]
 ___ 
 ## Parallel study
 - Language Models

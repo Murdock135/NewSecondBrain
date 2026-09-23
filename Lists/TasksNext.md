@@ -1,6 +1,6 @@
 # Next
-- [ ] #task Grade assignments for Comp Intelligence
-- [ ] #task Adjust AI and computing roadmap
+- [x] #task Grade assignments for Comp Intelligence ✅ 2026-09-22
+- [x] #task Adjust AI and computing roadmap ✅ 2026-09-22
 - [ ] #task Incorporate youtube playlists into roadmap
 ```tasks
 tag includes #next

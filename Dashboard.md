@@ -7,8 +7,6 @@ Go to [[TasksNext]]
 		1. Agentic System for pathogen analysis
 		2. Combining Evidence
 		3. Code diff analysis
-		4. Socket Programming
-	- Course- Computer Networks
 - Athletics
 	- Basic workout (3 d/w)
 	- Football (2 d/w)
@@ -17,7 +15,6 @@ Go to [[TasksNext]]
 
 Analysis I (Terence Tao): 12/550
 Stylish Academic Writing (Helen Sword): 27/182
-Glimpses of world history (Jawaharlal Nehru): 12/972
 ```
 
 
