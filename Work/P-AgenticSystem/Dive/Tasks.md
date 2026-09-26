@@ -10,7 +10,15 @@
 - [ ] #task Add a web search tool to the executor #next
 - [ ] #task Use the EC2 instance provided by jason to run SPARQ #next
 - [ ] #task Start creating a web ui (10+ days) #next
-- [ ] #task List evaluations for paper #next
+- [ ] #task List evaluations for paper #next 
+
+# Evaluations
+1. Hallucination verification via
+	1. Tool call checks
+	2. Claim checks
+2. Methodological rigor (How?)
+3. SPARQ vs single agent
+	1. Likert scale evaluation
 
 # Reading
 - [ ] #task Read reference papers
